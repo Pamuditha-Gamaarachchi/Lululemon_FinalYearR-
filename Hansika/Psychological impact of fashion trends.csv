@@ -1,0 +1,1001 @@
+User ID,Usage status,Age group,Gender,Collection,Energy level,Motivation level,Comfort level,Confidence level,Fit satisfaction,Professionalism,Social comfort,Feedback received,Community connection,Overall satisfaction,Preferred collection
+1,Yes,25-34,Male,Performance 1.0,5,4,3,2,4,4,3,4,5,4,Performance 1.0
+2,Yes,25-34,Prefer not to say,Performance 1.0,4,4,2,5,5,1,4,4,2,3,performance 2.0
+3,Yes,45-54,Female,Performance 2.0,3,4,2,1,4,5,1,3,3,3,performance 1.0
+4,Yes,25-34,Female,Performance 1.0,5,2,3,5,2,1,2,3,2,3,performance 2.0
+5,Yes,45-54,Male,Performance 1.0,2,4,2,1,4,1,2,3,1,2,performance 2.0
+6,Yes,25-34,Prefer not to say,Performance 1.0,5,1,4,2,4,4,2,5,5,4,Performance 1.0
+7,Yes,45-54,Prefer not to say,Performance 2.0,2,5,4,1,1,3,4,5,4,3,performance 1.0
+8,Yes,25-34,Female,Performance 2.0,5,5,1,3,5,1,2,4,5,3,performance 1.0
+9,Yes,55+,Male,Performance 2.0,4,5,4,3,5,4,3,5,2,4,Performance 2.0
+10,Yes,45-54,Prefer not to say,Performance 2.0,1,4,2,4,5,1,3,1,1,2,performance 1.0
+11,Yes,18-24,Male,Performance 2.0,4,4,4,4,1,2,4,4,3,3,performance 1.0
+12,Yes,25-34,Female,Performance 1.0,2,4,3,3,2,1,2,2,4,3,performance 2.0
+13,Yes,25-34,Male,Performance 1.0,2,3,4,3,3,5,2,4,4,3,performance 2.0
+14,No,18-24,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+15,Yes,55+,Female,Performance 1.0,2,5,2,5,2,5,1,5,2,3,performance 2.0
+16,Yes,35-44,Female,Performance 2.0,2,2,2,2,3,1,3,2,5,2,performance 1.0
+17,Yes,35-44,Female,Performance 2.0,5,3,4,4,3,2,2,4,2,3,performance 1.0
+18,Yes,18-24,Male,Performance 2.0,3,4,2,1,4,5,5,5,5,4,Performance 2.0
+19,Yes,55+,Prefer not to say,Performance 1.0,5,1,2,3,5,1,5,1,4,3,performance 2.0
+20,Yes,35-44,Female,Performance 1.0,1,1,3,4,2,5,5,3,2,3,performance 2.0
+21,Yes,18-24,Female,Performance 2.0,5,4,4,3,5,1,2,1,1,3,performance 1.0
+22,Yes,25-34,Prefer not to say,Performance 1.0,3,4,5,3,2,5,5,1,1,3,performance 2.0
+23,Yes,25-34,Prefer not to say,Performance 2.0,3,5,2,3,5,5,5,3,3,4,Performance 2.0
+24,Yes,25-34,Female,Performance 1.0,1,2,1,1,3,5,3,2,2,2,performance 2.0
+25,Yes,25-34,Prefer not to say,Performance 2.0,5,2,2,2,1,5,3,3,3,3,performance 1.0
+26,Yes,25-34,Male,Performance 2.0,3,4,4,5,2,4,2,5,2,3,performance 1.0
+27,Yes,45-54,Prefer not to say,Performance 2.0,3,4,1,2,5,5,5,4,4,4,Performance 2.0
+28,Yes,35-44,Male,Performance 2.0,3,3,4,5,2,2,4,1,1,3,performance 1.0
+29,Yes,25-34,Male,Performance 2.0,2,3,1,2,3,5,3,3,3,3,performance 1.0
+30,No,18-24,Male,0,0,0,0,0,0,0,0,0,0,0,0
+31,Yes,25-34,Prefer not to say,Performance 1.0,4,5,5,5,1,3,3,1,1,3,performance 2.0
+32,Yes,45-54,Prefer not to say,Performance 2.0,5,2,5,3,2,4,1,2,5,3,performance 1.0
+33,Yes,18-24,Male,Performance 1.0,1,1,4,3,3,4,4,1,2,3,performance 2.0
+34,Yes,55+,Prefer not to say,Performance 2.0,5,2,1,5,1,4,2,1,4,3,performance 1.0
+35,Yes,45-54,Male,Performance 2.0,1,5,5,2,3,4,2,5,1,3,performance 1.0
+36,Yes,55+,Male,Performance 2.0,4,3,4,4,5,1,3,3,1,3,performance 1.0
+37,Yes,35-44,Prefer not to say,Performance 1.0,2,2,3,2,5,5,2,3,3,3,performance 2.0
+38,Yes,45-54,Prefer not to say,Performance 1.0,5,5,4,4,1,1,4,3,2,3,performance 2.0
+39,Yes,55+,Prefer not to say,Performance 2.0,1,5,4,5,3,1,5,4,1,3,performance 1.0
+40,Yes,35-44,Prefer not to say,Performance 1.0,2,5,1,2,4,1,2,5,4,3,performance 2.0
+41,Yes,25-34,Prefer not to say,Performance 1.0,3,3,2,1,4,5,4,1,2,3,performance 2.0
+42,Yes,55+,Female,Performance 2.0,4,4,5,5,2,4,4,5,1,4,Performance 2.0
+43,Yes,18-24,Prefer not to say,Performance 2.0,3,5,3,2,2,3,1,5,5,3,performance 1.0
+44,Yes,55+,Male,Performance 1.0,5,2,5,4,3,3,4,4,3,4,Performance 1.0
+45,No,25-34,Female,0,0,0,0,0,0,0,0,0,0,0,0
+46,Yes,35-44,Prefer not to say,Performance 1.0,2,2,1,1,2,1,1,3,5,2,performance 2.0
+47,Yes,35-44,Prefer not to say,Performance 1.0,1,3,1,3,1,3,2,5,1,2,performance 2.0
+48,Yes,18-24,Prefer not to say,Performance 1.0,3,2,5,4,3,2,3,3,3,3,performance 2.0
+49,No,55+,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+50,Yes,35-44,Male,Performance 2.0,3,1,1,5,1,5,4,1,1,2,performance 1.0
+51,Yes,25-34,Female,Performance 1.0,2,1,1,1,4,2,3,4,4,2,performance 2.0
+52,Yes,25-34,Prefer not to say,Performance 1.0,1,1,1,5,4,1,4,2,5,3,performance 2.0
+53,Yes,35-44,Prefer not to say,Performance 1.0,2,4,1,2,4,3,3,2,5,3,performance 2.0
+54,No,18-24,Female,0,0,0,0,0,0,0,0,0,0,0,0
+55,Yes,18-24,Prefer not to say,Performance 2.0,5,1,4,4,2,4,4,5,4,4,Performance 2.0
+56,Yes,35-44,Female,Performance 2.0,1,1,4,1,3,3,4,4,5,3,performance 1.0
+57,Yes,25-34,Prefer not to say,Performance 1.0,3,2,3,2,3,2,2,5,2,3,performance 2.0
+58,Yes,55+,Male,Performance 2.0,4,2,4,2,4,4,2,4,2,3,performance 1.0
+59,Yes,35-44,Female,Performance 1.0,4,1,3,4,1,5,1,4,4,3,performance 2.0
+60,Yes,25-34,Male,Performance 1.0,4,3,2,3,2,5,4,3,3,3,performance 2.0
+61,Yes,35-44,Male,Performance 1.0,4,5,1,3,5,1,5,1,5,3,performance 2.0
+62,Yes,25-34,Prefer not to say,Performance 2.0,5,4,5,3,2,2,4,1,3,3,performance 1.0
+63,No,45-54,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+64,Yes,18-24,Male,Performance 2.0,2,2,5,2,3,3,5,2,5,3,performance 1.0
+65,Yes,25-34,Male,Performance 2.0,4,1,5,4,2,3,2,4,3,3,performance 1.0
+66,Yes,35-44,Female,Performance 1.0,3,2,2,5,3,2,1,1,5,3,performance 2.0
+67,Yes,35-44,Male,Performance 2.0,5,3,2,5,3,4,5,1,2,3,performance 1.0
+68,No,35-44,Male,0,0,0,0,0,0,0,0,0,0,0,0
+69,Yes,18-24,Prefer not to say,Performance 1.0,1,1,3,5,1,1,5,4,3,3,performance 2.0
+70,Yes,18-24,Female,Performance 2.0,5,3,2,1,3,1,1,4,4,3,performance 1.0
+71,Yes,35-44,Male,Performance 2.0,2,3,4,2,1,1,5,5,4,3,performance 1.0
+72,Yes,45-54,Prefer not to say,Performance 1.0,2,4,1,3,5,3,3,4,5,3,performance 2.0
+73,Yes,25-34,Male,Performance 2.0,1,2,4,1,5,3,3,2,3,3,performance 1.0
+74,Yes,55+,Prefer not to say,Performance 2.0,1,1,1,4,3,2,3,1,2,2,performance 1.0
+75,Yes,55+,Prefer not to say,Performance 2.0,5,1,1,4,1,3,3,4,5,3,performance 1.0
+76,Yes,25-34,Male,Performance 1.0,5,4,1,3,4,5,2,3,5,4,Performance 1.0
+77,Yes,35-44,Male,Performance 2.0,2,2,5,4,4,3,3,1,4,3,performance 1.0
+78,Yes,18-24,Prefer not to say,Performance 1.0,1,2,5,2,2,4,5,4,1,3,performance 2.0
+79,Yes,55+,Female,Performance 2.0,2,5,4,4,2,5,5,3,5,4,Performance 2.0
+80,Yes,55+,Prefer not to say,Performance 1.0,4,5,4,3,3,2,5,4,2,4,Performance 1.0
+81,Yes,18-24,Male,Performance 1.0,3,2,1,1,2,3,4,3,3,2,performance 2.0
+82,Yes,45-54,Female,Performance 1.0,3,3,4,4,5,3,1,4,2,3,performance 2.0
+83,Yes,35-44,Prefer not to say,Performance 1.0,5,3,5,5,5,5,1,2,5,4,Performance 1.0
+84,Yes,55+,Male,Performance 1.0,1,1,2,5,4,1,2,2,3,2,performance 2.0
+85,Yes,35-44,Female,Performance 1.0,2,3,2,5,1,4,3,5,1,3,performance 2.0
+86,Yes,45-54,Female,Performance 1.0,2,4,5,4,3,1,4,4,3,3,performance 2.0
+87,Yes,35-44,Male,Performance 1.0,4,5,5,2,2,4,1,2,4,3,performance 2.0
+88,Yes,55+,Female,Performance 2.0,1,5,4,3,1,5,5,5,5,4,Performance 2.0
+89,Yes,55+,Prefer not to say,Performance 1.0,2,2,1,2,1,1,4,5,5,3,performance 2.0
+90,Yes,35-44,Female,Performance 2.0,5,2,5,5,4,4,2,5,5,4,Performance 2.0
+91,Yes,55+,Male,Performance 1.0,3,1,4,2,3,4,1,3,4,3,performance 2.0
+92,Yes,45-54,Female,Performance 2.0,2,4,3,4,5,1,1,1,5,3,performance 1.0
+93,Yes,25-34,Male,Performance 1.0,5,5,4,2,4,2,2,3,3,3,performance 2.0
+94,No,18-24,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+95,Yes,35-44,Male,Performance 1.0,4,2,4,3,3,4,4,1,5,3,performance 2.0
+96,Yes,55+,Male,Performance 1.0,4,1,4,1,3,5,2,1,5,3,performance 2.0
+97,Yes,25-34,Prefer not to say,Performance 1.0,3,2,4,4,3,5,2,2,3,3,performance 2.0
+98,Yes,35-44,Male,Performance 2.0,1,1,1,2,4,3,2,1,5,2,performance 1.0
+99,No,18-24,Female,0,0,0,0,0,0,0,0,0,0,0,0
+100,Yes,35-44,Male,Performance 2.0,5,3,5,2,2,2,3,3,5,3,performance 1.0
+101,No,35-44,Male,0,0,0,0,0,0,0,0,0,0,0,0
+102,No,45-54,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+103,Yes,45-54,Prefer not to say,Performance 2.0,1,5,3,2,2,3,4,3,4,3,performance 1.0
+104,Yes,18-24,Male,Performance 2.0,1,5,3,1,2,2,1,2,3,2,performance 1.0
+105,Yes,35-44,Male,Performance 1.0,3,4,1,1,2,5,4,4,1,3,performance 2.0
+106,Yes,35-44,Female,Performance 1.0,3,2,5,3,5,4,3,1,4,3,performance 2.0
+107,Yes,25-34,Female,Performance 1.0,1,5,4,5,4,3,2,4,5,4,Performance 1.0
+108,Yes,25-34,Female,Performance 1.0,3,1,2,4,5,5,2,2,1,3,performance 2.0
+109,Yes,55+,Male,Performance 1.0,4,5,5,1,2,1,4,4,1,3,performance 2.0
+110,No,18-24,Female,0,0,0,0,0,0,0,0,0,0,0,0
+111,Yes,18-24,Prefer not to say,Performance 2.0,1,4,3,4,5,2,4,3,3,3,performance 1.0
+112,Yes,45-54,Male,Performance 2.0,2,1,1,4,4,5,2,3,2,3,performance 1.0
+113,Yes,55+,Female,Performance 2.0,4,2,1,3,4,2,2,3,2,3,performance 1.0
+114,Yes,45-54,Prefer not to say,Performance 1.0,3,1,2,1,2,1,1,5,2,2,performance 2.0
+115,Yes,35-44,Female,Performance 2.0,4,3,2,5,2,1,2,1,1,2,performance 1.0
+116,Yes,55+,Prefer not to say,Performance 2.0,3,4,4,1,5,1,4,1,4,3,performance 1.0
+117,Yes,25-34,Female,Performance 2.0,4,1,2,2,4,1,3,4,3,3,performance 1.0
+118,Yes,35-44,Female,Performance 2.0,4,4,3,2,4,5,4,3,4,4,Performance 2.0
+119,Yes,45-54,Prefer not to say,Performance 1.0,1,1,2,2,4,5,1,5,5,3,performance 2.0
+120,Yes,35-44,Prefer not to say,Performance 2.0,2,1,5,3,4,2,2,5,1,3,performance 1.0
+121,No,45-54,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+122,Yes,45-54,Female,Performance 1.0,2,3,5,5,2,1,1,2,5,3,performance 2.0
+123,Yes,25-34,Prefer not to say,Performance 2.0,4,3,4,1,4,5,4,3,3,3,performance 1.0
+124,Yes,45-54,Female,Performance 1.0,3,5,3,4,1,5,2,5,1,3,performance 2.0
+125,Yes,18-24,Prefer not to say,Performance 1.0,3,5,2,3,2,1,2,4,2,3,performance 2.0
+126,Yes,45-54,Prefer not to say,Performance 1.0,3,2,3,3,5,5,2,3,2,3,performance 2.0
+127,Yes,55+,Prefer not to say,Performance 2.0,3,4,5,3,5,1,3,4,4,4,Performance 2.0
+128,No,55+,Male,0,0,0,0,0,0,0,0,0,0,0,0
+129,Yes,35-44,Prefer not to say,Performance 1.0,3,1,2,2,2,2,5,3,1,2,performance 2.0
+130,Yes,35-44,Male,Performance 1.0,2,5,3,1,1,1,2,5,4,3,performance 2.0
+131,Yes,18-24,Female,Performance 2.0,2,4,3,5,1,3,4,3,2,3,performance 1.0
+132,Yes,55+,Female,Performance 1.0,5,1,3,1,2,4,1,4,5,3,performance 2.0
+133,Yes,45-54,Prefer not to say,Performance 1.0,3,1,3,5,5,1,1,5,4,3,performance 2.0
+134,Yes,18-24,Female,Performance 2.0,3,5,1,3,5,5,4,1,2,3,performance 1.0
+135,Yes,25-34,Female,Performance 2.0,1,3,4,3,3,3,5,4,4,3,performance 1.0
+136,No,18-24,Male,0,0,0,0,0,0,0,0,0,0,0,0
+137,Yes,25-34,Female,Performance 2.0,1,5,1,2,1,5,2,1,3,2,performance 1.0
+138,Yes,18-24,Male,Performance 1.0,3,1,1,4,1,2,1,5,3,2,performance 2.0
+139,Yes,25-34,Female,Performance 2.0,4,1,2,3,1,3,4,1,4,3,performance 1.0
+140,No,25-34,Female,0,0,0,0,0,0,0,0,0,0,0,0
+141,Yes,55+,Prefer not to say,Performance 1.0,1,5,3,5,4,2,1,5,5,3,performance 2.0
+142,Yes,55+,Female,Performance 1.0,4,2,2,2,1,4,4,5,1,3,performance 2.0
+143,Yes,45-54,Prefer not to say,Performance 1.0,1,5,2,2,5,5,3,5,3,3,performance 2.0
+144,Yes,35-44,Male,Performance 2.0,2,2,3,5,2,3,4,3,1,3,performance 1.0
+145,Yes,18-24,Prefer not to say,Performance 1.0,5,3,5,2,5,3,2,2,3,3,performance 2.0
+146,Yes,45-54,Female,Performance 2.0,4,2,3,3,1,5,4,1,5,3,performance 1.0
+147,Yes,18-24,Female,Performance 1.0,1,2,1,4,4,2,1,5,5,3,performance 2.0
+148,Yes,45-54,Prefer not to say,Performance 1.0,2,5,1,4,1,1,4,1,5,3,performance 2.0
+149,Yes,55+,Male,Performance 2.0,5,3,4,2,3,2,3,4,5,3,performance 1.0
+150,Yes,18-24,Female,Performance 1.0,4,2,2,4,4,1,2,3,1,3,performance 2.0
+151,Yes,18-24,Female,Performance 2.0,1,2,5,3,4,1,1,4,5,3,performance 1.0
+152,Yes,35-44,Female,Performance 2.0,5,4,4,4,1,1,1,3,2,3,performance 1.0
+153,No,35-44,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+154,Yes,35-44,Male,Performance 1.0,5,3,5,1,5,3,1,1,3,3,performance 2.0
+155,Yes,35-44,Prefer not to say,Performance 2.0,2,1,5,1,1,2,2,1,5,2,performance 1.0
+156,Yes,45-54,Male,Performance 2.0,2,5,3,3,1,4,2,2,1,3,performance 1.0
+157,Yes,35-44,Male,Performance 2.0,1,4,4,3,4,5,4,1,1,3,performance 1.0
+158,Yes,35-44,Prefer not to say,Performance 2.0,4,1,5,2,2,5,5,2,1,3,performance 1.0
+159,Yes,35-44,Female,Performance 2.0,5,3,3,3,3,4,5,3,4,4,Performance 2.0
+160,Yes,25-34,Male,Performance 2.0,4,5,5,5,2,2,3,1,1,3,performance 1.0
+161,Yes,35-44,Prefer not to say,Performance 2.0,2,3,5,4,1,4,2,2,2,3,performance 1.0
+162,Yes,45-54,Prefer not to say,Performance 2.0,3,3,3,5,3,5,1,5,5,4,Performance 2.0
+163,Yes,35-44,Male,Performance 1.0,1,5,2,1,1,4,3,4,4,3,performance 2.0
+164,Yes,25-34,Prefer not to say,Performance 1.0,4,3,5,5,2,2,4,5,1,3,performance 2.0
+165,Yes,35-44,Male,Performance 1.0,1,1,5,5,3,2,4,1,5,3,performance 2.0
+166,Yes,55+,Male,Performance 1.0,4,5,1,2,5,2,2,2,1,3,performance 2.0
+167,Yes,25-34,Prefer not to say,Performance 1.0,2,4,4,5,2,5,3,1,3,3,performance 2.0
+168,Yes,25-34,Male,Performance 1.0,2,2,1,3,3,4,5,4,1,3,performance 2.0
+169,Yes,25-34,Male,Performance 2.0,4,5,4,5,2,5,3,5,1,4,Performance 2.0
+170,Yes,55+,Prefer not to say,Performance 1.0,2,4,4,4,3,1,3,4,4,3,performance 2.0
+171,Yes,25-34,Prefer not to say,Performance 1.0,4,3,4,3,2,4,5,1,4,3,performance 2.0
+172,Yes,45-54,Female,Performance 1.0,2,1,3,1,5,3,2,5,1,3,performance 2.0
+173,No,35-44,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+174,No,25-34,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+175,Yes,55+,Prefer not to say,Performance 1.0,2,2,4,4,1,3,2,2,1,2,performance 2.0
+176,Yes,55+,Prefer not to say,Performance 1.0,3,5,5,4,1,1,2,1,1,3,performance 2.0
+177,Yes,35-44,Female,Performance 1.0,1,3,3,3,3,4,2,5,1,3,performance 2.0
+178,Yes,18-24,Male,Performance 1.0,1,3,3,2,1,4,5,2,4,3,performance 2.0
+179,No,25-34,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+180,Yes,45-54,Male,Performance 2.0,3,2,2,5,5,5,1,4,4,3,performance 1.0
+181,Yes,25-34,Female,Performance 1.0,3,2,5,4,5,2,5,5,2,4,Performance 1.0
+182,No,45-54,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+183,Yes,45-54,Prefer not to say,Performance 1.0,4,1,4,5,5,4,5,4,5,4,Performance 1.0
+184,Yes,18-24,Male,Performance 2.0,3,2,1,1,1,1,1,4,4,2,performance 1.0
+185,Yes,55+,Male,Performance 2.0,5,1,2,1,3,3,4,5,1,3,performance 1.0
+186,Yes,18-24,Prefer not to say,Performance 1.0,5,1,2,1,1,2,1,1,2,2,performance 2.0
+187,Yes,25-34,Female,Performance 1.0,4,4,1,2,3,1,4,2,5,3,performance 2.0
+188,Yes,18-24,Female,Performance 1.0,5,3,1,2,4,1,4,1,4,3,performance 2.0
+189,Yes,35-44,Prefer not to say,Performance 1.0,4,2,4,3,4,4,3,4,1,3,performance 2.0
+190,Yes,25-34,Male,Performance 2.0,2,2,5,2,3,2,5,4,3,3,performance 1.0
+191,Yes,25-34,Female,Performance 1.0,2,2,2,4,3,2,2,1,3,2,performance 2.0
+192,Yes,55+,Female,Performance 1.0,3,4,1,1,3,2,1,5,1,2,performance 2.0
+193,No,35-44,Female,0,0,0,0,0,0,0,0,0,0,0,0
+194,Yes,55+,Male,Performance 1.0,1,2,3,4,4,4,4,5,2,3,performance 2.0
+195,Yes,55+,Female,Performance 1.0,3,3,3,5,5,5,2,1,1,3,performance 2.0
+196,No,25-34,Female,0,0,0,0,0,0,0,0,0,0,0,0
+197,Yes,35-44,Female,Performance 1.0,4,4,4,4,4,3,1,4,2,3,performance 2.0
+198,Yes,45-54,Prefer not to say,Performance 1.0,5,2,1,4,1,3,1,4,5,3,performance 2.0
+199,Yes,35-44,Female,Performance 1.0,3,3,5,4,3,1,4,1,4,3,performance 2.0
+200,Yes,45-54,Female,Performance 1.0,4,3,3,3,2,2,3,5,1,3,performance 2.0
+201,Yes,18-24,Prefer not to say,Performance 2.0,5,3,3,5,3,2,3,4,4,4,Performance 2.0
+202,No,35-44,Male,0,0,0,0,0,0,0,0,0,0,0,0
+203,Yes,45-54,Male,Performance 1.0,4,3,5,3,4,5,4,1,2,3,performance 2.0
+204,Yes,18-24,Male,Performance 2.0,4,4,3,4,4,3,1,5,3,3,performance 1.0
+205,Yes,18-24,Prefer not to say,Performance 1.0,3,5,4,3,2,5,1,3,1,3,performance 2.0
+206,Yes,55+,Prefer not to say,Performance 2.0,1,4,4,3,5,3,4,3,4,3,performance 1.0
+207,Yes,18-24,Prefer not to say,Performance 2.0,2,1,3,5,4,3,1,4,1,3,performance 1.0
+208,Yes,25-34,Prefer not to say,Performance 2.0,3,3,2,2,3,4,3,1,2,3,performance 1.0
+209,Yes,55+,Male,Performance 1.0,5,1,1,1,3,3,5,2,5,3,performance 2.0
+210,Yes,55+,Prefer not to say,Performance 1.0,3,2,3,2,1,4,1,1,4,2,performance 2.0
+211,Yes,25-34,Male,Performance 1.0,3,3,2,2,2,3,5,5,4,3,performance 2.0
+212,Yes,35-44,Female,Performance 1.0,5,4,1,1,3,1,3,1,5,3,performance 2.0
+213,Yes,18-24,Male,Performance 1.0,1,2,3,4,5,2,4,1,3,3,performance 2.0
+214,Yes,35-44,Female,Performance 2.0,5,5,3,1,4,4,3,4,2,3,performance 1.0
+215,Yes,55+,Female,Performance 2.0,1,5,4,5,3,1,1,2,3,3,performance 1.0
+216,No,35-44,Male,0,0,0,0,0,0,0,0,0,0,0,0
+217,Yes,45-54,Male,Performance 1.0,4,3,3,1,1,3,4,3,5,3,performance 2.0
+218,Yes,45-54,Prefer not to say,Performance 1.0,2,5,1,5,3,2,2,3,4,3,performance 2.0
+219,Yes,45-54,Prefer not to say,Performance 1.0,1,3,5,4,1,3,1,4,3,3,performance 2.0
+220,No,45-54,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+221,Yes,55+,Female,Performance 2.0,5,1,2,2,3,4,3,5,2,3,performance 1.0
+222,Yes,35-44,Prefer not to say,Performance 1.0,5,5,2,1,1,1,5,2,3,3,performance 2.0
+223,No,18-24,Female,0,0,0,0,0,0,0,0,0,0,0,0
+224,Yes,45-54,Male,Performance 1.0,1,4,5,4,4,1,3,3,2,3,performance 2.0
+225,Yes,25-34,Female,Performance 1.0,3,5,5,5,1,2,4,2,1,3,performance 2.0
+226,Yes,35-44,Female,Performance 1.0,1,5,5,5,3,5,5,4,4,4,Performance 1.0
+227,Yes,18-24,Female,Performance 1.0,3,5,2,1,4,2,3,4,4,3,performance 2.0
+228,Yes,45-54,Male,Performance 2.0,4,3,4,4,3,2,2,5,3,3,performance 1.0
+229,Yes,35-44,Prefer not to say,Performance 2.0,4,1,3,4,5,5,4,4,2,4,Performance 2.0
+230,Yes,45-54,Female,Performance 1.0,5,5,4,2,4,1,5,1,5,4,Performance 1.0
+231,Yes,45-54,Prefer not to say,Performance 1.0,3,4,1,5,4,5,5,2,2,3,performance 2.0
+232,Yes,18-24,Female,Performance 2.0,3,4,3,3,4,3,2,3,4,3,performance 1.0
+233,Yes,55+,Prefer not to say,Performance 2.0,1,1,5,5,2,3,5,3,3,3,performance 1.0
+234,No,25-34,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+235,Yes,25-34,Female,Performance 2.0,5,2,3,4,5,1,4,2,1,3,performance 1.0
+236,Yes,18-24,Female,Performance 2.0,2,3,1,5,4,1,4,3,4,3,performance 1.0
+237,Yes,35-44,Female,Performance 2.0,5,3,1,4,4,4,3,4,4,4,Performance 2.0
+238,Yes,18-24,Female,Performance 1.0,4,5,3,2,4,3,5,3,2,3,performance 2.0
+239,Yes,55+,Female,Performance 1.0,3,2,2,4,1,1,3,3,5,3,performance 2.0
+240,Yes,18-24,Male,Performance 2.0,3,3,4,4,4,4,1,1,4,3,performance 1.0
+241,Yes,55+,Prefer not to say,Performance 1.0,5,5,2,2,5,4,5,1,3,4,Performance 1.0
+242,Yes,55+,Female,Performance 2.0,3,5,1,2,1,5,4,1,3,3,performance 1.0
+243,Yes,25-34,Prefer not to say,Performance 1.0,1,5,4,2,2,1,1,5,5,3,performance 2.0
+244,Yes,55+,Male,Performance 1.0,1,2,1,5,5,1,4,5,3,3,performance 2.0
+245,Yes,35-44,Male,Performance 2.0,1,2,4,3,5,1,2,2,2,2,performance 1.0
+246,Yes,55+,Female,Performance 1.0,5,3,2,1,3,3,5,4,1,3,performance 2.0
+247,Yes,25-34,Male,Performance 1.0,4,5,1,2,5,2,4,5,5,4,Performance 1.0
+248,Yes,18-24,Male,Performance 1.0,5,3,5,3,5,4,2,4,3,4,Performance 1.0
+249,Yes,55+,Male,Performance 2.0,1,2,1,3,2,5,4,1,3,2,performance 1.0
+250,Yes,55+,Prefer not to say,Performance 1.0,2,3,2,2,4,2,1,5,2,3,performance 2.0
+251,Yes,55+,Female,Performance 2.0,3,3,1,2,5,2,1,5,3,3,performance 1.0
+252,Yes,55+,Prefer not to say,Performance 2.0,5,4,4,5,3,2,3,4,4,4,Performance 2.0
+253,Yes,45-54,Female,Performance 1.0,2,3,2,1,5,5,3,4,4,3,performance 2.0
+254,Yes,25-34,Prefer not to say,Performance 1.0,1,5,4,5,1,2,4,5,2,3,performance 2.0
+255,No,45-54,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+256,Yes,18-24,Female,Performance 2.0,1,4,4,3,5,3,2,2,2,3,performance 1.0
+257,Yes,55+,Prefer not to say,Performance 1.0,1,3,5,2,2,2,5,2,5,3,performance 2.0
+258,Yes,45-54,Prefer not to say,Performance 2.0,5,5,2,3,5,4,5,2,5,4,Performance 2.0
+259,Yes,35-44,Prefer not to say,Performance 2.0,3,4,5,3,4,4,3,3,2,3,performance 1.0
+260,Yes,35-44,Female,Performance 2.0,3,5,3,1,3,2,2,2,5,3,performance 1.0
+261,Yes,45-54,Male,Performance 1.0,3,1,2,3,3,2,4,5,4,3,performance 2.0
+262,Yes,45-54,Male,Performance 2.0,4,3,1,5,3,4,2,4,5,3,performance 1.0
+263,Yes,25-34,Prefer not to say,Performance 2.0,2,1,3,3,4,1,3,3,3,3,performance 1.0
+264,Yes,35-44,Male,Performance 1.0,4,3,5,4,4,2,5,5,2,4,Performance 1.0
+265,Yes,35-44,Prefer not to say,Performance 1.0,4,5,2,3,4,4,1,5,3,3,performance 2.0
+266,Yes,45-54,Prefer not to say,Performance 2.0,4,2,2,2,2,2,4,3,2,3,performance 1.0
+267,Yes,25-34,Prefer not to say,Performance 1.0,1,5,5,4,2,2,2,2,5,3,performance 2.0
+268,Yes,55+,Prefer not to say,Performance 2.0,5,1,5,5,5,1,4,4,5,4,Performance 2.0
+269,Yes,25-34,Male,Performance 1.0,3,1,1,5,5,2,5,2,5,3,performance 2.0
+270,Yes,18-24,Prefer not to say,Performance 1.0,4,1,3,5,1,5,2,2,2,3,performance 2.0
+271,No,45-54,Male,0,0,0,0,0,0,0,0,0,0,0,0
+272,Yes,45-54,Male,Performance 1.0,3,2,1,3,2,4,5,4,5,3,performance 2.0
+273,Yes,18-24,Prefer not to say,Performance 1.0,5,1,5,2,4,1,2,4,4,3,performance 2.0
+274,No,18-24,Female,0,0,0,0,0,0,0,0,0,0,0,0
+275,Yes,18-24,Male,Performance 2.0,1,4,4,4,1,5,1,2,2,3,performance 1.0
+276,Yes,45-54,Prefer not to say,Performance 2.0,5,5,3,3,1,3,1,4,5,3,performance 1.0
+277,Yes,45-54,Female,Performance 1.0,5,2,3,1,3,2,4,5,4,3,performance 2.0
+278,Yes,45-54,Prefer not to say,Performance 2.0,3,1,2,3,3,1,1,1,3,2,performance 1.0
+279,Yes,45-54,Female,Performance 2.0,5,3,1,4,5,5,3,3,4,4,Performance 2.0
+280,Yes,25-34,Prefer not to say,Performance 1.0,5,2,1,1,2,4,2,2,1,2,performance 2.0
+281,Yes,45-54,Prefer not to say,Performance 1.0,5,3,4,2,2,1,2,5,3,3,performance 2.0
+282,Yes,45-54,Female,Performance 1.0,1,3,2,3,3,4,4,4,2,3,performance 2.0
+283,Yes,45-54,Female,Performance 2.0,4,2,5,2,3,4,1,2,1,3,performance 1.0
+284,Yes,45-54,Female,Performance 2.0,1,4,5,1,4,4,3,4,1,3,performance 1.0
+285,Yes,25-34,Prefer not to say,Performance 1.0,2,3,1,5,1,2,2,5,5,3,performance 2.0
+286,Yes,45-54,Male,Performance 1.0,4,5,5,4,2,3,2,1,2,3,performance 2.0
+287,Yes,45-54,Prefer not to say,Performance 2.0,2,4,1,1,5,2,1,1,2,2,performance 1.0
+288,Yes,55+,Prefer not to say,Performance 1.0,2,5,2,4,3,4,1,4,3,3,performance 2.0
+289,Yes,55+,Prefer not to say,Performance 1.0,4,2,4,2,5,2,2,2,2,3,performance 2.0
+290,Yes,35-44,Prefer not to say,Performance 2.0,5,2,4,5,5,1,1,2,4,3,performance 1.0
+291,Yes,18-24,Prefer not to say,Performance 2.0,1,3,2,3,2,4,4,2,2,3,performance 1.0
+292,Yes,55+,Male,Performance 2.0,1,4,2,4,1,4,3,3,4,3,performance 1.0
+293,Yes,45-54,Prefer not to say,Performance 1.0,2,3,3,5,1,5,1,1,3,3,performance 2.0
+294,Yes,55+,Prefer not to say,Performance 2.0,5,5,2,2,1,5,2,5,3,3,performance 1.0
+295,No,18-24,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+296,Yes,25-34,Male,Performance 1.0,5,5,1,1,1,1,4,2,3,3,performance 2.0
+297,Yes,25-34,Prefer not to say,Performance 2.0,4,3,1,3,3,5,4,1,1,3,performance 1.0
+298,Yes,35-44,Prefer not to say,Performance 1.0,4,5,4,1,2,2,1,2,4,3,performance 2.0
+299,Yes,25-34,Male,Performance 1.0,5,4,2,1,1,3,3,3,2,3,performance 2.0
+300,Yes,45-54,Male,Performance 1.0,3,5,3,5,1,4,5,1,3,3,performance 2.0
+301,Yes,55+,Male,Performance 1.0,2,2,1,5,1,3,2,4,4,3,performance 2.0
+302,Yes,55+,Prefer not to say,Performance 1.0,5,4,2,4,2,3,3,5,5,4,Performance 1.0
+303,Yes,35-44,Male,Performance 1.0,1,3,2,1,2,5,5,4,1,3,performance 2.0
+304,Yes,35-44,Female,Performance 1.0,1,4,3,5,2,1,2,1,5,3,performance 2.0
+305,Yes,45-54,Female,Performance 2.0,3,4,4,1,2,3,5,1,5,3,performance 1.0
+306,Yes,35-44,Female,Performance 1.0,4,5,2,2,1,2,5,4,5,3,performance 2.0
+307,Yes,55+,Prefer not to say,Performance 2.0,3,1,2,4,3,3,3,1,3,3,performance 1.0
+308,Yes,25-34,Female,Performance 2.0,5,1,3,1,1,5,4,4,1,3,performance 1.0
+309,Yes,55+,Female,Performance 1.0,5,2,5,1,1,4,5,2,1,3,performance 2.0
+310,Yes,25-34,Prefer not to say,Performance 1.0,3,2,1,1,5,2,4,2,3,3,performance 2.0
+311,Yes,35-44,Male,Performance 2.0,2,5,3,1,4,1,2,2,3,3,performance 1.0
+312,Yes,18-24,Female,Performance 1.0,5,1,1,3,4,1,5,1,2,3,performance 2.0
+313,Yes,35-44,Male,Performance 1.0,4,3,1,2,4,4,2,2,1,3,performance 2.0
+314,Yes,18-24,Prefer not to say,Performance 1.0,2,1,3,5,1,4,5,4,5,3,performance 2.0
+315,Yes,35-44,Female,Performance 1.0,5,5,1,5,3,4,2,2,3,3,performance 2.0
+316,Yes,18-24,Female,Performance 2.0,2,1,4,5,2,5,4,4,4,3,performance 1.0
+317,Yes,18-24,Prefer not to say,Performance 1.0,1,5,1,5,1,2,4,4,5,3,performance 2.0
+318,Yes,35-44,Prefer not to say,Performance 1.0,2,2,1,1,3,1,3,3,3,2,performance 2.0
+319,No,25-34,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+320,No,18-24,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+321,Yes,25-34,Male,Performance 1.0,4,4,3,2,2,2,2,4,3,3,performance 2.0
+322,Yes,35-44,Prefer not to say,Performance 2.0,2,2,2,2,4,1,3,5,5,3,performance 1.0
+323,Yes,45-54,Prefer not to say,Performance 2.0,3,5,4,1,5,5,5,2,4,4,Performance 2.0
+324,Yes,55+,Prefer not to say,Performance 2.0,1,5,4,3,1,2,5,4,4,3,performance 1.0
+325,Yes,45-54,Male,Performance 1.0,5,3,4,2,2,1,4,3,2,3,performance 2.0
+326,Yes,55+,Female,Performance 2.0,2,2,2,4,3,3,2,5,4,3,performance 1.0
+327,Yes,45-54,Male,Performance 2.0,1,2,3,5,5,4,3,4,4,3,performance 1.0
+328,Yes,18-24,Prefer not to say,Performance 2.0,1,1,5,5,4,1,3,2,4,3,performance 1.0
+329,Yes,45-54,Female,Performance 2.0,3,2,2,4,1,5,5,5,2,3,performance 1.0
+330,Yes,35-44,Male,Performance 1.0,3,4,5,1,2,5,5,3,5,4,Performance 1.0
+331,Yes,35-44,Male,Performance 2.0,5,4,3,3,4,3,3,3,4,4,Performance 2.0
+332,Yes,45-54,Male,Performance 1.0,4,5,4,1,4,5,4,1,4,4,Performance 1.0
+333,Yes,25-34,Male,Performance 2.0,3,4,2,2,5,5,4,2,3,3,performance 1.0
+334,No,35-44,Male,0,0,0,0,0,0,0,0,0,0,0,0
+335,Yes,25-34,Male,Performance 1.0,4,1,3,4,3,2,1,1,2,2,performance 2.0
+336,Yes,55+,Female,Performance 2.0,2,4,4,2,4,4,3,2,2,3,performance 1.0
+337,Yes,55+,Male,Performance 1.0,4,4,2,4,5,5,1,4,4,4,Performance 1.0
+338,Yes,45-54,Female,Performance 1.0,1,2,2,3,3,5,2,1,3,2,performance 2.0
+339,Yes,18-24,Male,Performance 2.0,4,2,2,1,2,2,5,3,3,3,performance 1.0
+340,Yes,35-44,Female,Performance 1.0,1,1,3,3,1,2,4,2,1,2,performance 2.0
+341,Yes,55+,Male,Performance 1.0,3,1,1,5,4,5,4,5,1,3,performance 2.0
+342,Yes,25-34,Female,Performance 1.0,4,3,2,1,3,3,5,4,2,3,performance 2.0
+343,Yes,55+,Female,Performance 2.0,4,5,1,1,5,3,1,3,2,3,performance 1.0
+344,Yes,18-24,Male,Performance 1.0,1,2,1,2,3,2,2,5,5,3,performance 2.0
+345,Yes,45-54,Female,Performance 2.0,1,4,3,1,1,5,3,3,1,2,performance 1.0
+346,Yes,18-24,Male,Performance 1.0,5,1,4,5,5,1,4,4,2,3,performance 2.0
+347,Yes,45-54,Male,Performance 1.0,5,3,1,1,1,4,1,2,5,3,performance 2.0
+348,Yes,55+,Female,Performance 2.0,3,2,1,4,1,1,4,3,1,2,performance 1.0
+349,Yes,55+,Prefer not to say,Performance 1.0,2,2,4,1,2,3,2,5,5,3,performance 2.0
+350,Yes,45-54,Prefer not to say,Performance 2.0,3,5,3,2,5,3,4,2,2,3,performance 1.0
+351,Yes,25-34,Prefer not to say,Performance 1.0,3,4,2,2,5,2,4,4,2,3,performance 2.0
+352,Yes,35-44,Female,Performance 2.0,4,5,4,1,1,4,4,1,3,3,performance 1.0
+353,Yes,18-24,Male,Performance 2.0,4,5,4,5,1,5,3,2,1,3,performance 1.0
+354,Yes,45-54,Male,Performance 1.0,1,1,2,3,4,1,5,4,3,3,performance 2.0
+355,Yes,25-34,Female,Performance 1.0,1,4,2,1,1,5,5,1,5,3,performance 2.0
+356,No,55+,Male,0,0,0,0,0,0,0,0,0,0,0,0
+357,Yes,55+,Female,Performance 1.0,1,2,3,3,1,2,5,2,3,2,performance 2.0
+358,Yes,35-44,Male,Performance 2.0,1,3,2,1,4,2,4,2,4,3,performance 1.0
+359,Yes,45-54,Prefer not to say,Performance 2.0,2,2,4,4,4,4,4,2,3,3,performance 1.0
+360,Yes,35-44,Prefer not to say,Performance 2.0,4,4,3,5,4,4,2,4,4,4,Performance 2.0
+361,Yes,45-54,Female,Performance 2.0,2,5,1,3,2,2,5,2,2,3,performance 1.0
+362,Yes,35-44,Male,Performance 2.0,1,4,3,4,4,2,3,2,3,3,performance 1.0
+363,Yes,45-54,Male,Performance 1.0,5,3,2,3,4,2,4,5,3,3,performance 2.0
+364,Yes,45-54,Female,Performance 1.0,4,5,5,3,3,4,3,1,1,3,performance 2.0
+365,Yes,45-54,Male,Performance 1.0,5,3,5,4,4,1,5,4,5,4,Performance 1.0
+366,Yes,55+,Male,Performance 1.0,1,3,5,5,5,3,1,5,4,4,Performance 1.0
+367,Yes,45-54,Prefer not to say,Performance 1.0,4,5,3,5,2,1,4,4,5,4,Performance 1.0
+368,Yes,25-34,Female,Performance 2.0,2,3,5,3,5,5,3,1,4,3,performance 1.0
+369,Yes,55+,Female,Performance 1.0,5,1,4,2,4,3,1,4,3,3,performance 2.0
+370,Yes,45-54,Female,Performance 1.0,3,4,2,2,1,2,3,5,1,3,performance 2.0
+371,Yes,18-24,Prefer not to say,Performance 2.0,2,1,3,4,5,3,5,2,4,3,performance 1.0
+372,Yes,55+,Prefer not to say,Performance 2.0,3,4,1,2,2,2,5,2,4,3,performance 1.0
+373,Yes,25-34,Female,Performance 1.0,3,1,1,5,1,1,3,3,1,2,performance 2.0
+374,Yes,25-34,Prefer not to say,Performance 1.0,5,1,5,1,1,4,2,5,4,3,performance 2.0
+375,Yes,25-34,Male,Performance 2.0,2,3,1,4,1,4,2,4,2,3,performance 1.0
+376,Yes,25-34,Male,Performance 2.0,3,1,4,2,2,3,2,3,2,2,performance 1.0
+377,Yes,35-44,Male,Performance 2.0,5,4,3,4,5,1,1,5,4,4,Performance 2.0
+378,Yes,25-34,Prefer not to say,Performance 1.0,4,2,2,3,3,4,5,5,3,3,performance 2.0
+379,Yes,35-44,Female,Performance 2.0,3,3,1,4,2,3,2,4,1,3,performance 1.0
+380,Yes,35-44,Male,Performance 2.0,2,4,1,2,4,2,5,1,5,3,performance 1.0
+381,Yes,45-54,Prefer not to say,Performance 2.0,1,1,5,1,2,1,1,1,3,2,performance 1.0
+382,Yes,35-44,Prefer not to say,Performance 2.0,1,3,4,3,1,4,4,2,3,3,performance 1.0
+383,Yes,25-34,Male,Performance 1.0,1,3,4,2,3,1,3,2,4,3,performance 2.0
+384,Yes,25-34,Female,Performance 1.0,5,1,3,5,1,4,1,3,4,3,performance 2.0
+385,Yes,25-34,Female,Performance 2.0,4,3,1,1,3,2,2,2,5,3,performance 1.0
+386,Yes,18-24,Prefer not to say,Performance 2.0,3,4,2,2,2,2,2,5,4,3,performance 1.0
+387,Yes,35-44,Female,Performance 2.0,4,1,2,2,5,1,1,2,1,2,performance 1.0
+388,Yes,18-24,Prefer not to say,Performance 1.0,5,4,4,5,4,1,2,2,1,3,performance 2.0
+389,Yes,45-54,Female,Performance 1.0,4,5,5,1,2,2,5,5,3,4,Performance 1.0
+390,Yes,45-54,Female,Performance 2.0,2,1,1,2,4,4,1,3,1,2,performance 1.0
+391,No,25-34,Male,0,0,0,0,0,0,0,0,0,0,0,0
+392,Yes,25-34,Female,Performance 1.0,3,4,1,4,4,3,3,5,1,3,performance 2.0
+393,Yes,35-44,Male,Performance 1.0,1,3,2,1,1,5,3,3,4,3,performance 2.0
+394,Yes,18-24,Male,Performance 2.0,2,4,4,1,4,3,2,1,5,3,performance 1.0
+395,Yes,45-54,Male,Performance 1.0,1,5,1,4,3,3,5,5,3,3,performance 2.0
+396,No,18-24,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+397,Yes,35-44,Female,Performance 1.0,2,1,1,2,3,1,3,1,1,2,performance 2.0
+398,Yes,18-24,Prefer not to say,Performance 2.0,3,2,1,2,1,2,5,4,1,2,performance 1.0
+399,Yes,45-54,Prefer not to say,Performance 1.0,2,1,4,3,4,3,2,4,3,3,performance 2.0
+400,No,25-34,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+401,Yes,45-54,Male,Performance 1.0,4,2,5,2,1,5,4,1,3,3,performance 2.0
+402,No,55+,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+403,Yes,45-54,Female,Performance 1.0,5,4,4,1,5,2,3,1,4,3,performance 2.0
+404,Yes,18-24,Female,Performance 1.0,5,5,3,2,3,4,1,1,5,3,performance 2.0
+405,Yes,35-44,Female,Performance 2.0,4,4,2,1,1,1,5,4,5,3,performance 1.0
+406,Yes,55+,Female,Performance 1.0,4,4,2,3,1,2,3,2,1,2,performance 2.0
+407,Yes,35-44,Male,Performance 2.0,5,4,2,3,5,4,3,2,2,3,performance 1.0
+408,Yes,25-34,Male,Performance 1.0,5,3,3,3,2,3,3,2,4,3,performance 2.0
+409,Yes,55+,Prefer not to say,Performance 1.0,1,4,3,4,5,1,5,2,4,3,performance 2.0
+410,Yes,35-44,Prefer not to say,Performance 1.0,5,4,3,4,3,2,5,3,1,3,performance 2.0
+411,Yes,35-44,Prefer not to say,Performance 1.0,5,1,4,3,5,5,5,1,5,4,Performance 1.0
+412,Yes,18-24,Female,Performance 2.0,1,2,4,4,5,2,4,3,3,3,performance 1.0
+413,No,25-34,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+414,Yes,18-24,Female,Performance 1.0,1,2,2,3,3,4,5,5,5,3,performance 2.0
+415,Yes,35-44,Female,Performance 1.0,5,1,1,3,2,4,2,2,3,3,performance 2.0
+416,No,18-24,Female,0,0,0,0,0,0,0,0,0,0,0,0
+417,Yes,55+,Male,Performance 1.0,3,2,4,2,2,2,5,5,5,3,performance 2.0
+418,Yes,35-44,Female,Performance 2.0,3,2,4,3,1,1,3,4,1,2,performance 1.0
+419,No,25-34,Male,0,0,0,0,0,0,0,0,0,0,0,0
+420,Yes,35-44,Prefer not to say,Performance 2.0,2,1,4,3,2,2,5,5,3,3,performance 1.0
+421,Yes,55+,Female,Performance 2.0,5,4,3,3,4,3,1,4,5,4,Performance 2.0
+422,Yes,45-54,Female,Performance 1.0,1,4,1,3,3,2,2,5,3,3,performance 2.0
+423,Yes,18-24,Female,Performance 2.0,1,4,5,5,2,4,1,5,1,3,performance 1.0
+424,Yes,55+,Prefer not to say,Performance 1.0,4,3,4,4,2,1,5,3,5,3,performance 2.0
+425,No,55+,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+426,Yes,55+,Female,Performance 1.0,1,5,4,3,5,4,4,4,3,4,Performance 1.0
+427,No,45-54,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+428,Yes,55+,Female,Performance 2.0,3,5,4,4,3,4,3,3,2,3,performance 1.0
+429,Yes,35-44,Female,Performance 1.0,2,5,3,3,1,2,4,1,3,3,performance 2.0
+430,Yes,35-44,Female,Performance 1.0,5,2,4,2,2,5,3,1,5,3,performance 2.0
+431,Yes,45-54,Male,Performance 2.0,1,3,5,2,1,1,2,3,2,2,performance 1.0
+432,Yes,55+,Female,Performance 2.0,5,1,4,2,3,1,1,1,1,2,performance 1.0
+433,Yes,18-24,Prefer not to say,Performance 2.0,3,3,1,3,1,2,2,1,1,2,performance 1.0
+434,Yes,55+,Male,Performance 1.0,3,3,2,5,4,1,1,3,2,3,performance 2.0
+435,Yes,25-34,Male,Performance 2.0,3,2,2,4,5,5,3,5,2,3,performance 1.0
+436,Yes,18-24,Female,Performance 2.0,5,1,3,1,4,1,5,3,5,3,performance 1.0
+437,Yes,25-34,Male,Performance 1.0,1,1,1,2,2,2,2,5,4,2,performance 2.0
+438,Yes,18-24,Prefer not to say,Performance 2.0,2,4,3,5,5,5,1,4,5,4,Performance 2.0
+439,No,35-44,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+440,Yes,45-54,Male,Performance 2.0,3,2,5,5,3,5,2,2,2,3,performance 1.0
+441,Yes,25-34,Female,Performance 2.0,5,1,3,2,4,2,2,3,3,3,performance 1.0
+442,Yes,25-34,Prefer not to say,Performance 1.0,5,5,4,3,1,5,4,3,4,4,Performance 1.0
+443,Yes,25-34,Prefer not to say,Performance 1.0,1,4,1,2,1,3,4,2,3,2,performance 2.0
+444,Yes,25-34,Prefer not to say,Performance 1.0,5,5,4,1,1,1,1,1,4,3,performance 2.0
+445,Yes,18-24,Male,Performance 1.0,2,2,4,1,5,4,4,5,3,3,performance 2.0
+446,Yes,55+,Prefer not to say,Performance 2.0,1,3,3,4,1,2,3,4,2,3,performance 1.0
+447,Yes,35-44,Female,Performance 2.0,3,5,5,2,4,5,2,5,2,4,Performance 2.0
+448,Yes,55+,Male,Performance 2.0,1,3,4,3,5,4,2,1,2,3,performance 1.0
+449,Yes,55+,Female,Performance 1.0,4,3,1,4,3,5,2,4,2,3,performance 2.0
+450,Yes,55+,Female,Performance 2.0,2,5,2,5,2,2,2,2,1,3,performance 1.0
+451,Yes,45-54,Male,Performance 1.0,3,3,3,4,1,5,2,1,5,3,performance 2.0
+452,Yes,35-44,Male,Performance 1.0,1,2,3,1,5,1,2,1,3,2,performance 2.0
+453,Yes,45-54,Prefer not to say,Performance 1.0,2,2,4,2,4,4,2,3,3,3,performance 2.0
+454,No,45-54,Male,0,0,0,0,0,0,0,0,0,0,0,0
+455,Yes,55+,Female,Performance 1.0,2,2,5,5,1,2,1,1,3,2,performance 2.0
+456,Yes,25-34,Male,Performance 2.0,3,4,3,3,5,1,4,5,3,3,performance 1.0
+457,Yes,18-24,Male,Performance 1.0,2,1,1,3,1,3,1,1,4,2,performance 2.0
+458,Yes,35-44,Male,Performance 2.0,3,5,4,2,3,3,2,2,3,3,performance 1.0
+459,Yes,55+,Female,Performance 1.0,1,2,3,5,4,2,2,2,3,3,performance 2.0
+460,Yes,25-34,Prefer not to say,Performance 2.0,2,3,3,5,2,5,3,5,1,3,performance 1.0
+461,Yes,25-34,Male,Performance 2.0,2,4,1,2,4,5,4,2,1,3,performance 1.0
+462,Yes,35-44,Male,Performance 2.0,1,4,3,2,5,4,5,5,1,3,performance 1.0
+463,Yes,25-34,Female,Performance 2.0,5,3,1,5,3,4,1,4,2,3,performance 1.0
+464,Yes,55+,Female,Performance 2.0,4,3,4,4,5,3,1,4,4,4,Performance 2.0
+465,Yes,45-54,Prefer not to say,Performance 1.0,5,5,3,3,1,3,5,1,2,3,performance 2.0
+466,Yes,55+,Prefer not to say,Performance 2.0,1,1,4,3,1,1,3,3,5,2,performance 1.0
+467,No,18-24,Male,0,0,0,0,0,0,0,0,0,0,0,0
+468,Yes,25-34,Female,Performance 2.0,3,5,3,3,2,5,3,2,4,3,performance 1.0
+469,Yes,55+,Female,Performance 2.0,4,1,1,4,3,2,1,4,1,2,performance 1.0
+470,Yes,45-54,Male,Performance 2.0,1,1,4,1,4,5,4,1,3,3,performance 1.0
+471,Yes,45-54,Male,Performance 1.0,2,1,2,5,5,1,1,2,3,2,performance 2.0
+472,Yes,45-54,Prefer not to say,Performance 2.0,5,4,3,3,1,4,2,4,2,3,performance 1.0
+473,Yes,55+,Male,Performance 2.0,5,1,2,4,3,4,2,5,5,3,performance 1.0
+474,Yes,18-24,Female,Performance 2.0,2,2,4,5,3,3,3,4,3,3,performance 1.0
+475,Yes,18-24,Prefer not to say,Performance 1.0,1,1,3,4,4,3,1,3,3,3,performance 2.0
+476,Yes,25-34,Female,Performance 2.0,4,2,1,2,4,2,2,4,3,3,performance 1.0
+477,Yes,55+,Male,Performance 1.0,3,2,2,1,5,2,2,4,5,3,performance 2.0
+478,Yes,25-34,Male,Performance 1.0,2,2,1,3,3,1,5,4,5,3,performance 2.0
+479,Yes,55+,Prefer not to say,Performance 2.0,3,2,4,4,3,3,3,2,2,3,performance 1.0
+480,Yes,55+,Female,Performance 2.0,1,1,2,2,4,2,1,3,5,2,performance 1.0
+481,No,55+,Female,0,0,0,0,0,0,0,0,0,0,0,0
+482,Yes,25-34,Male,Performance 1.0,3,3,4,3,3,5,3,2,4,3,performance 2.0
+483,Yes,45-54,Female,Performance 1.0,3,1,1,3,3,4,5,1,2,3,performance 2.0
+484,Yes,18-24,Prefer not to say,Performance 2.0,1,4,2,5,1,4,5,3,1,3,performance 1.0
+485,Yes,55+,Prefer not to say,Performance 2.0,5,2,3,5,5,3,3,2,4,4,Performance 2.0
+486,Yes,18-24,Female,Performance 1.0,2,4,2,4,5,2,2,1,5,3,performance 2.0
+487,Yes,18-24,Prefer not to say,Performance 2.0,3,4,4,3,4,3,4,4,5,4,Performance 2.0
+488,Yes,25-34,Prefer not to say,Performance 2.0,4,5,2,1,3,2,5,1,2,3,performance 1.0
+489,No,35-44,Male,0,0,0,0,0,0,0,0,0,0,0,performance 1.0
+490,Yes,18-24,Prefer not to say,Performance 1.0,1,4,2,5,4,1,5,4,3,3,performance 2.0
+491,Yes,25-34,Female,Performance 1.0,2,3,4,3,5,2,4,5,5,4,Performance 1.0
+492,Yes,18-24,Male,Performance 2.0,5,1,4,5,2,3,1,5,5,3,performance 1.0
+493,Yes,55+,Prefer not to say,Performance 1.0,5,4,5,2,3,1,5,4,4,4,Performance 1.0
+494,Yes,18-24,Female,Performance 1.0,3,5,4,3,1,1,5,2,4,3,performance 2.0
+495,Yes,25-34,Prefer not to say,Performance 1.0,4,1,2,3,1,5,2,2,3,3,performance 2.0
+496,Yes,45-54,Prefer not to say,Performance 1.0,5,1,5,1,4,1,3,1,4,3,performance 2.0
+497,Yes,45-54,Prefer not to say,Performance 1.0,5,3,1,3,1,3,4,3,4,3,performance 2.0
+498,Yes,55+,Prefer not to say,Performance 1.0,5,2,5,5,3,1,4,1,1,3,performance 2.0
+499,Yes,18-24,Prefer not to say,Performance 1.0,4,4,1,4,2,4,3,4,4,3,performance 2.0
+500,Yes,25-34,Male,Performance 1.0,4,1,3,5,5,5,5,2,1,3,performance 2.0
+501,Yes,55+,Female,Performance 1.0,1,1,1,5,2,4,5,3,3,3,performance 2.0
+502,No,45-54,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+503,Yes,35-44,Female,Performance 2.0,3,1,1,1,1,2,2,5,5,2,performance 1.0
+504,No,18-24,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+505,Yes,18-24,Prefer not to say,Performance 2.0,2,1,3,2,4,2,4,4,1,3,performance 1.0
+506,No,18-24,Female,0,0,0,0,0,0,0,0,0,0,0,0
+507,Yes,25-34,Female,Performance 1.0,1,4,4,4,2,5,2,3,1,3,performance 2.0
+508,Yes,55+,Male,Performance 1.0,2,4,4,2,1,5,3,4,5,3,performance 2.0
+509,Yes,25-34,Prefer not to say,Performance 1.0,1,5,4,5,5,5,3,4,1,4,Performance 1.0
+510,Yes,45-54,Prefer not to say,Performance 1.0,2,2,1,4,1,1,5,4,1,2,performance 2.0
+511,Yes,45-54,Male,Performance 2.0,1,1,4,4,3,5,1,5,4,3,performance 1.0
+512,Yes,55+,Male,Performance 2.0,2,5,4,4,4,5,4,3,2,4,Performance 2.0
+513,Yes,35-44,Female,Performance 2.0,2,5,2,1,1,3,4,1,3,2,performance 1.0
+514,Yes,45-54,Female,Performance 1.0,1,4,4,2,2,2,2,2,4,3,performance 2.0
+515,Yes,18-24,Female,Performance 2.0,1,5,3,4,4,2,5,4,5,4,Performance 2.0
+516,Yes,55+,Male,Performance 2.0,3,5,1,5,5,3,5,3,2,4,Performance 2.0
+517,Yes,25-34,Female,Performance 2.0,3,5,4,1,4,5,1,1,3,3,performance 1.0
+518,No,55+,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+519,Yes,18-24,Female,Performance 1.0,2,2,1,4,1,2,1,4,2,2,performance 2.0
+520,Yes,55+,Prefer not to say,Performance 1.0,4,2,1,1,5,2,5,4,5,3,performance 2.0
+521,Yes,18-24,Male,Performance 2.0,3,5,4,3,5,5,5,2,3,4,Performance 2.0
+522,Yes,55+,Male,Performance 1.0,2,2,1,3,3,3,4,3,4,3,performance 2.0
+523,Yes,25-34,Male,Performance 2.0,5,4,4,1,1,3,3,4,5,3,performance 1.0
+524,Yes,45-54,Male,Performance 1.0,5,5,4,2,4,1,5,5,2,4,Performance 1.0
+525,Yes,55+,Female,Performance 1.0,1,3,4,4,2,1,3,3,4,3,performance 2.0
+526,Yes,18-24,Female,Performance 1.0,4,2,2,2,2,1,4,2,3,2,performance 2.0
+527,Yes,25-34,Female,Performance 2.0,4,3,1,5,1,3,2,5,5,3,performance 1.0
+528,Yes,55+,Prefer not to say,Performance 2.0,3,1,5,1,1,2,4,2,5,3,performance 1.0
+529,Yes,25-34,Prefer not to say,Performance 2.0,3,1,1,3,3,5,5,2,4,3,performance 1.0
+530,Yes,18-24,Male,Performance 1.0,3,3,5,4,4,2,3,3,4,3,performance 2.0
+531,Yes,35-44,Male,Performance 1.0,2,5,3,3,3,5,3,3,5,4,Performance 1.0
+532,Yes,25-34,Female,Performance 2.0,4,1,4,2,5,4,1,1,2,3,performance 1.0
+533,Yes,45-54,Prefer not to say,Performance 1.0,4,1,4,4,2,1,2,3,4,3,performance 2.0
+534,Yes,45-54,Prefer not to say,Performance 2.0,2,5,5,5,2,2,3,4,4,4,Performance 2.0
+535,Yes,25-34,Male,Performance 2.0,3,2,5,3,3,1,4,3,4,3,performance 1.0
+536,Yes,55+,Male,Performance 2.0,2,4,3,1,2,4,2,3,3,3,performance 1.0
+537,Yes,25-34,Female,Performance 2.0,1,2,1,1,5,1,3,4,3,2,performance 1.0
+538,Yes,45-54,Prefer not to say,Performance 2.0,1,2,5,5,1,3,1,1,3,2,performance 1.0
+539,Yes,55+,Male,Performance 2.0,1,5,1,1,5,4,3,5,4,3,performance 1.0
+540,Yes,18-24,Male,Performance 2.0,1,4,2,2,1,5,1,5,5,3,performance 1.0
+541,Yes,25-34,Male,Performance 1.0,4,4,2,3,3,1,3,2,4,3,performance 2.0
+542,Yes,55+,Male,Performance 1.0,5,2,2,2,1,2,4,1,1,2,performance 2.0
+543,Yes,45-54,Male,Performance 1.0,1,5,4,4,2,3,4,4,3,3,performance 2.0
+544,Yes,55+,Male,Performance 1.0,4,5,5,5,1,4,5,5,3,4,Performance 1.0
+545,Yes,35-44,Female,Performance 1.0,1,5,3,3,3,2,2,1,4,3,performance 2.0
+546,Yes,55+,Prefer not to say,Performance 1.0,4,3,1,4,3,5,1,4,5,3,performance 2.0
+547,Yes,35-44,Female,Performance 2.0,5,4,1,4,5,1,5,2,1,3,performance 1.0
+548,Yes,55+,Female,Performance 2.0,2,2,5,4,5,1,5,3,4,3,performance 1.0
+549,Yes,45-54,Prefer not to say,Performance 1.0,3,1,2,2,2,3,1,5,1,2,performance 2.0
+550,Yes,55+,Prefer not to say,Performance 1.0,1,3,2,1,1,1,5,5,2,2,performance 2.0
+551,Yes,18-24,Male,Performance 1.0,4,2,5,5,2,4,5,5,5,4,Performance 1.0
+552,Yes,18-24,Male,Performance 1.0,1,5,1,2,4,5,5,4,2,3,performance 2.0
+553,Yes,18-24,Male,Performance 2.0,5,2,2,1,5,4,4,2,4,3,performance 1.0
+554,No,25-34,Male,0,0,0,0,0,0,0,0,0,0,0,0
+555,Yes,18-24,Prefer not to say,Performance 1.0,4,3,1,1,1,2,1,5,2,2,performance 2.0
+556,Yes,55+,Prefer not to say,Performance 1.0,5,1,3,2,5,5,3,2,5,3,performance 2.0
+557,Yes,25-34,Male,Performance 2.0,5,1,5,5,5,1,4,3,2,3,performance 1.0
+558,Yes,35-44,Male,Performance 2.0,1,2,5,2,1,1,4,1,2,2,performance 1.0
+559,Yes,55+,Prefer not to say,Performance 1.0,4,1,5,2,2,2,4,1,4,3,performance 2.0
+560,Yes,18-24,Male,Performance 1.0,1,5,1,3,4,3,2,4,5,3,performance 2.0
+561,Yes,45-54,Prefer not to say,Performance 1.0,5,4,2,3,2,3,1,2,2,3,performance 2.0
+562,Yes,25-34,Prefer not to say,Performance 2.0,2,4,2,3,3,4,5,3,1,3,performance 1.0
+563,Yes,25-34,Male,Performance 2.0,2,4,3,1,4,5,3,4,5,3,performance 1.0
+564,Yes,45-54,Male,Performance 1.0,3,3,5,5,4,2,2,2,2,3,performance 2.0
+565,Yes,18-24,Female,Performance 1.0,3,4,4,5,4,1,2,1,1,3,performance 2.0
+566,No,25-34,Female,0,0,0,0,0,0,0,0,0,0,0,0
+567,Yes,45-54,Prefer not to say,Performance 2.0,2,2,5,2,5,5,5,1,2,3,performance 1.0
+568,Yes,18-24,Male,Performance 2.0,3,2,5,2,3,3,3,5,5,3,performance 1.0
+569,Yes,18-24,Male,Performance 2.0,4,5,4,4,5,3,1,1,2,3,performance 1.0
+570,Yes,18-24,Male,Performance 1.0,3,2,5,1,4,1,1,2,2,2,performance 2.0
+571,Yes,55+,Male,Performance 1.0,1,5,1,1,3,2,4,3,2,2,performance 2.0
+572,No,55+,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+573,Yes,18-24,Female,Performance 1.0,1,4,3,2,4,2,2,3,1,2,performance 2.0
+574,Yes,55+,Prefer not to say,Performance 2.0,1,1,5,3,4,2,3,1,5,3,performance 1.0
+575,Yes,55+,Prefer not to say,Performance 2.0,3,3,2,4,4,1,1,1,5,3,performance 1.0
+576,Yes,18-24,Male,Performance 2.0,4,4,4,5,3,4,2,2,1,3,performance 1.0
+577,Yes,18-24,Female,Performance 1.0,2,4,5,4,4,2,5,5,1,4,Performance 1.0
+578,Yes,25-34,Prefer not to say,Performance 1.0,2,4,1,4,4,2,3,5,3,3,performance 2.0
+579,Yes,35-44,Female,Performance 1.0,4,4,2,4,4,4,3,2,4,3,performance 2.0
+580,Yes,35-44,Male,Performance 1.0,5,1,5,4,5,2,2,4,5,4,Performance 1.0
+581,Yes,25-34,Male,Performance 2.0,5,5,2,1,3,4,5,2,3,3,performance 1.0
+582,Yes,55+,Male,Performance 1.0,5,4,1,4,4,4,4,1,4,3,performance 2.0
+583,Yes,35-44,Male,Performance 2.0,4,4,1,2,4,5,3,5,5,4,Performance 2.0
+584,Yes,25-34,Male,Performance 1.0,3,4,1,2,1,5,5,3,1,3,performance 2.0
+585,Yes,25-34,Male,Performance 2.0,4,5,3,5,1,2,5,5,5,4,Performance 2.0
+586,Yes,18-24,Female,Performance 1.0,4,2,3,4,1,2,3,5,3,3,performance 2.0
+587,Yes,55+,Female,Performance 2.0,4,3,1,4,2,4,1,4,2,3,performance 1.0
+588,Yes,55+,Prefer not to say,Performance 1.0,4,2,3,2,4,4,2,1,4,3,performance 2.0
+589,Yes,45-54,Prefer not to say,Performance 1.0,1,1,5,3,5,1,4,4,2,3,performance 2.0
+590,Yes,18-24,Prefer not to say,Performance 2.0,1,3,4,3,3,4,4,2,2,3,performance 1.0
+591,Yes,45-54,Male,Performance 1.0,3,5,5,2,3,2,3,2,4,3,performance 2.0
+592,Yes,25-34,Prefer not to say,Performance 2.0,2,2,5,3,3,5,2,2,4,3,performance 1.0
+593,Yes,45-54,Male,Performance 2.0,1,3,1,5,5,1,4,3,5,3,performance 1.0
+594,Yes,55+,Female,Performance 2.0,2,2,1,2,3,5,2,5,3,3,performance 1.0
+595,Yes,35-44,Prefer not to say,Performance 1.0,4,4,2,4,5,5,1,4,1,3,performance 2.0
+596,Yes,55+,Male,Performance 2.0,1,2,1,2,4,4,3,1,5,3,performance 1.0
+597,Yes,45-54,Female,Performance 1.0,4,2,4,4,3,5,1,3,4,3,performance 2.0
+598,Yes,25-34,Female,Performance 2.0,4,4,4,3,5,2,2,3,4,3,performance 1.0
+599,Yes,45-54,Male,Performance 2.0,1,3,5,1,3,4,2,2,1,2,performance 1.0
+600,Yes,35-44,Male,Performance 1.0,1,1,1,1,1,4,1,2,5,2,performance 2.0
+601,Yes,45-54,Male,Performance 1.0,2,3,2,2,1,2,2,2,5,2,performance 2.0
+602,Yes,55+,Female,Performance 1.0,4,2,5,4,4,1,1,3,3,3,performance 2.0
+603,Yes,35-44,Female,Performance 2.0,4,4,1,2,4,2,5,3,1,3,performance 1.0
+604,Yes,35-44,Male,Performance 2.0,2,2,4,1,2,5,4,4,3,3,performance 1.0
+605,Yes,55+,Prefer not to say,Performance 1.0,2,1,2,1,2,4,1,4,5,2,performance 2.0
+606,Yes,55+,Prefer not to say,Performance 1.0,4,1,2,4,5,4,4,5,5,4,Performance 1.0
+607,Yes,55+,Female,Performance 1.0,5,5,1,1,2,5,2,5,4,3,performance 2.0
+608,Yes,25-34,Male,Performance 2.0,3,3,2,5,1,1,4,5,5,3,performance 1.0
+609,Yes,45-54,Prefer not to say,Performance 2.0,3,2,1,2,3,3,3,1,3,2,performance 1.0
+610,Yes,35-44,Male,Performance 1.0,1,5,5,4,3,5,3,4,3,4,Performance 1.0
+611,Yes,55+,Prefer not to say,Performance 1.0,4,5,3,1,5,1,1,1,5,3,performance 2.0
+612,Yes,55+,Prefer not to say,Performance 1.0,1,2,5,4,1,5,2,5,4,3,performance 2.0
+613,Yes,35-44,Female,Performance 2.0,2,5,4,3,1,4,1,4,1,3,performance 1.0
+614,Yes,35-44,Male,Performance 1.0,1,3,4,2,5,5,2,4,2,3,performance 2.0
+615,Yes,45-54,Prefer not to say,Performance 2.0,4,1,2,2,5,1,1,3,4,3,performance 1.0
+616,Yes,35-44,Male,Performance 2.0,2,2,5,1,3,3,1,2,1,2,performance 1.0
+617,No,18-24,Female,0,0,0,0,0,0,0,0,0,0,0,0
+618,Yes,55+,Prefer not to say,Performance 1.0,4,5,2,4,4,4,5,3,3,4,Performance 1.0
+619,Yes,25-34,Prefer not to say,Performance 2.0,3,2,4,1,5,4,2,1,4,3,performance 1.0
+620,Yes,55+,Male,Performance 1.0,5,4,4,5,3,3,2,4,1,3,performance 2.0
+621,Yes,45-54,Male,Performance 1.0,4,1,1,4,3,5,5,2,5,3,performance 2.0
+622,Yes,25-34,Female,Performance 1.0,1,1,2,1,3,2,1,2,3,2,performance 2.0
+623,Yes,45-54,Prefer not to say,Performance 1.0,3,3,2,1,3,2,2,2,2,2,performance 2.0
+624,Yes,45-54,Male,Performance 1.0,1,3,1,2,3,4,4,5,5,3,performance 2.0
+625,Yes,18-24,Male,Performance 1.0,1,3,5,3,5,1,5,3,1,3,performance 2.0
+626,Yes,35-44,Female,Performance 1.0,4,1,1,1,3,4,5,5,4,3,performance 2.0
+627,Yes,55+,Male,Performance 1.0,1,2,3,5,5,4,2,2,5,3,performance 2.0
+628,Yes,45-54,Female,Performance 2.0,2,3,1,5,1,3,3,1,3,2,performance 1.0
+629,Yes,18-24,Male,Performance 2.0,4,4,5,5,5,1,1,4,5,4,Performance 2.0
+630,Yes,55+,Prefer not to say,Performance 2.0,3,4,1,3,5,3,1,2,4,3,performance 1.0
+631,Yes,45-54,Female,Performance 1.0,4,3,3,3,1,1,2,4,3,3,performance 2.0
+632,No,55+,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+633,Yes,25-34,Prefer not to say,Performance 1.0,4,5,1,1,2,1,5,5,1,3,performance 2.0
+634,Yes,25-34,Male,Performance 1.0,5,1,3,1,4,4,4,3,1,3,performance 2.0
+635,Yes,45-54,Female,Performance 2.0,5,2,5,1,5,4,2,2,5,3,performance 1.0
+636,Yes,45-54,Male,Performance 2.0,3,3,2,4,2,2,4,1,5,3,performance 1.0
+637,Yes,55+,Female,Performance 1.0,2,4,4,2,4,2,5,4,3,3,performance 2.0
+638,No,25-34,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+639,Yes,25-34,Female,Performance 2.0,5,3,2,4,5,5,4,3,1,4,Performance 2.0
+640,Yes,45-54,Male,Performance 2.0,1,5,2,1,5,1,5,5,1,3,performance 1.0
+641,Yes,18-24,Prefer not to say,Performance 2.0,5,5,2,1,4,1,3,3,3,3,performance 1.0
+642,Yes,25-34,Female,Performance 1.0,2,4,1,3,5,2,3,4,5,3,performance 2.0
+643,No,25-34,Female,0,0,0,0,0,0,0,0,0,0,0,0
+644,Yes,45-54,Prefer not to say,Performance 1.0,4,4,3,2,5,3,2,4,2,3,performance 2.0
+645,Yes,45-54,Male,Performance 1.0,5,2,2,1,1,4,4,4,3,3,performance 2.0
+646,No,18-24,Female,0,0,0,0,0,0,0,0,0,0,0,0
+647,Yes,25-34,Prefer not to say,Performance 2.0,1,3,5,5,5,3,4,3,2,3,performance 1.0
+648,Yes,55+,Male,Performance 2.0,1,5,5,4,5,2,2,3,4,3,performance 1.0
+649,Yes,18-24,Prefer not to say,Performance 1.0,3,5,4,4,2,5,5,2,5,4,Performance 1.0
+650,Yes,25-34,Male,Performance 1.0,1,4,4,5,1,3,3,3,3,3,performance 2.0
+651,Yes,35-44,Male,Performance 2.0,5,3,2,3,1,2,2,1,4,3,performance 1.0
+652,Yes,18-24,Male,Performance 1.0,2,5,4,4,5,4,4,5,5,4,Performance 1.0
+653,No,25-34,Female,0,0,0,0,0,0,0,0,0,0,0,0
+654,Yes,25-34,Male,Performance 1.0,1,1,2,1,4,1,3,5,4,2,performance 2.0
+655,Yes,45-54,Prefer not to say,Performance 2.0,4,4,2,2,5,5,4,5,3,4,Performance 2.0
+656,Yes,45-54,Female,Performance 2.0,1,2,1,1,2,4,3,5,1,2,performance 1.0
+657,Yes,25-34,Prefer not to say,Performance 1.0,5,2,3,5,4,2,5,2,1,3,performance 2.0
+658,Yes,25-34,Female,Performance 2.0,4,5,4,4,2,2,1,1,3,3,performance 1.0
+659,Yes,35-44,Male,Performance 2.0,2,3,5,5,5,5,2,3,5,4,Performance 2.0
+660,Yes,35-44,Prefer not to say,Performance 1.0,3,3,4,5,2,2,5,5,3,4,Performance 1.0
+661,Yes,55+,Prefer not to say,Performance 2.0,1,3,4,3,5,2,1,4,1,3,performance 1.0
+662,Yes,25-34,Female,Performance 1.0,1,1,1,5,5,3,4,3,1,3,performance 2.0
+663,Yes,35-44,Female,Performance 1.0,4,3,3,1,4,5,4,5,2,3,performance 2.0
+664,No,55+,Female,0,0,0,0,0,0,0,0,0,0,0,0
+665,Yes,25-34,Male,Performance 2.0,2,2,4,3,5,5,3,1,1,3,performance 1.0
+666,Yes,25-34,Prefer not to say,Performance 1.0,3,4,5,4,3,5,4,2,3,4,Performance 1.0
+667,Yes,25-34,Female,Performance 2.0,1,5,4,3,1,5,5,4,2,3,performance 1.0
+668,Yes,55+,Female,Performance 1.0,4,5,4,5,2,3,2,4,1,3,performance 2.0
+669,Yes,25-34,Prefer not to say,Performance 1.0,5,5,4,5,2,1,3,1,3,3,performance 2.0
+670,No,25-34,Female,0,0,0,0,0,0,0,0,0,0,0,0
+671,No,35-44,Male,0,0,0,0,0,0,0,0,0,0,0,0
+672,Yes,45-54,Male,Performance 1.0,5,3,2,5,2,2,1,3,4,3,performance 2.0
+673,Yes,55+,Female,Performance 2.0,4,5,5,3,3,1,1,5,3,3,performance 1.0
+674,Yes,55+,Prefer not to say,Performance 2.0,5,5,1,4,4,2,4,2,5,4,Performance 2.0
+675,No,45-54,Female,0,0,0,0,0,0,0,0,0,0,0,0
+676,Yes,55+,Male,Performance 1.0,5,4,5,3,4,1,4,2,2,3,performance 2.0
+677,Yes,45-54,Male,Performance 1.0,5,3,3,4,3,2,5,2,3,3,performance 2.0
+678,Yes,18-24,Prefer not to say,Performance 2.0,5,4,5,3,2,1,2,5,1,3,performance 1.0
+679,No,18-24,Male,0,0,0,0,0,0,0,0,0,0,0,0
+680,No,18-24,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+681,Yes,45-54,Female,Performance 1.0,4,4,3,5,3,3,4,1,3,3,performance 2.0
+682,Yes,35-44,Male,Performance 1.0,1,5,4,2,4,4,1,4,2,3,performance 2.0
+683,Yes,18-24,Prefer not to say,Performance 2.0,3,4,2,5,2,5,5,5,3,4,Performance 2.0
+684,Yes,25-34,Prefer not to say,Performance 2.0,3,3,4,1,4,5,1,1,5,3,performance 1.0
+685,Yes,35-44,Prefer not to say,Performance 2.0,5,1,1,4,2,1,4,5,5,3,performance 1.0
+686,Yes,25-34,Prefer not to say,Performance 2.0,2,2,2,1,1,1,2,1,5,2,performance 1.0
+687,Yes,25-34,Female,Performance 1.0,1,4,2,4,4,3,4,5,4,3,performance 2.0
+688,Yes,35-44,Male,Performance 1.0,3,5,1,3,1,1,3,1,5,3,performance 2.0
+689,Yes,55+,Male,Performance 1.0,2,5,3,2,5,3,4,2,3,3,performance 2.0
+690,Yes,35-44,Prefer not to say,Performance 2.0,2,4,2,2,1,2,2,3,1,2,performance 1.0
+691,Yes,18-24,Male,Performance 1.0,4,4,2,5,3,2,1,2,5,3,performance 2.0
+692,Yes,35-44,Male,Performance 2.0,4,4,3,1,2,2,4,2,5,3,performance 1.0
+693,Yes,35-44,Female,Performance 1.0,4,5,3,2,3,1,5,3,2,3,performance 2.0
+694,Yes,45-54,Female,Performance 1.0,1,4,5,1,1,4,5,2,4,3,performance 2.0
+695,Yes,45-54,Female,Performance 1.0,3,5,1,4,1,3,2,5,5,3,performance 2.0
+696,Yes,35-44,Female,Performance 2.0,3,3,1,4,1,4,4,1,4,3,performance 1.0
+697,No,35-44,Male,0,0,0,0,0,0,0,0,0,0,0,0
+698,Yes,25-34,Prefer not to say,Performance 1.0,1,4,2,1,1,1,5,2,3,2,performance 2.0
+699,Yes,35-44,Female,Performance 2.0,5,2,1,3,1,2,3,3,1,2,performance 1.0
+700,Yes,25-34,Female,Performance 2.0,2,5,5,1,1,4,5,3,4,3,performance 1.0
+701,No,18-24,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+702,Yes,35-44,Male,Performance 2.0,4,3,5,1,4,3,3,3,2,3,performance 1.0
+703,Yes,18-24,Prefer not to say,Performance 2.0,4,2,2,3,5,2,1,5,3,3,performance 1.0
+704,Yes,25-34,Female,Performance 2.0,5,1,3,1,5,3,2,2,5,3,performance 1.0
+705,Yes,25-34,Male,Performance 1.0,2,4,4,3,5,2,4,5,1,3,performance 2.0
+706,Yes,35-44,Female,Performance 2.0,4,3,5,4,1,5,5,2,3,4,Performance 2.0
+707,Yes,35-44,Female,Performance 1.0,5,4,5,3,3,2,4,1,3,3,performance 2.0
+708,Yes,55+,Male,Performance 1.0,3,1,2,2,3,4,3,2,1,2,performance 2.0
+709,Yes,45-54,Female,Performance 1.0,1,1,1,1,2,5,3,1,5,2,performance 2.0
+710,Yes,18-24,Prefer not to say,Performance 1.0,3,2,2,2,3,2,1,3,2,2,performance 2.0
+711,Yes,35-44,Male,Performance 2.0,1,1,2,1,2,5,5,5,1,3,performance 1.0
+712,Yes,25-34,Male,Performance 2.0,5,3,1,4,4,4,2,5,5,4,Performance 2.0
+713,Yes,25-34,Female,Performance 2.0,5,2,1,2,1,1,4,4,1,2,performance 1.0
+714,Yes,45-54,Prefer not to say,Performance 1.0,1,2,2,1,4,2,3,5,5,3,performance 2.0
+715,Yes,25-34,Female,Performance 2.0,4,4,2,4,1,2,5,4,1,3,performance 1.0
+716,Yes,35-44,Male,Performance 1.0,3,3,5,3,2,2,3,5,3,3,performance 2.0
+717,Yes,25-34,Prefer not to say,Performance 1.0,2,1,1,1,5,4,5,2,5,3,performance 2.0
+718,No,18-24,Male,0,0,0,0,0,0,0,0,0,0,0,0
+719,Yes,25-34,Female,Performance 1.0,5,1,4,4,5,5,2,5,2,4,Performance 1.0
+720,No,25-34,Female,0,0,0,0,0,0,0,0,0,0,0,0
+721,Yes,55+,Prefer not to say,Performance 2.0,2,2,2,4,4,3,4,1,4,3,performance 1.0
+722,No,18-24,Male,0,0,0,0,0,0,0,0,0,0,0,0
+723,No,25-34,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+724,Yes,45-54,Male,Performance 1.0,3,3,2,3,4,4,1,1,2,3,performance 2.0
+725,Yes,35-44,Prefer not to say,Performance 1.0,3,1,4,5,3,3,5,3,5,4,Performance 1.0
+726,Yes,55+,Female,Performance 2.0,4,1,4,1,4,3,3,5,5,3,performance 1.0
+727,No,35-44,Male,0,0,0,0,0,0,0,0,0,0,0,0
+728,Yes,18-24,Prefer not to say,Performance 2.0,3,2,2,3,1,3,4,3,5,3,performance 1.0
+729,Yes,55+,Female,Performance 1.0,1,3,3,5,4,1,3,2,4,3,performance 2.0
+730,Yes,25-34,Prefer not to say,Performance 2.0,1,1,1,1,3,4,5,4,3,3,performance 1.0
+731,Yes,45-54,Prefer not to say,Performance 2.0,1,2,1,3,5,4,2,5,5,3,performance 1.0
+732,Yes,35-44,Prefer not to say,Performance 1.0,3,5,2,4,5,2,1,4,5,3,performance 2.0
+733,No,45-54,Female,0,0,0,0,0,0,0,0,0,0,0,0
+734,Yes,45-54,Male,Performance 2.0,4,1,5,2,1,5,1,3,4,3,performance 1.0
+735,Yes,55+,Female,Performance 1.0,3,2,2,4,2,5,3,2,2,3,performance 2.0
+736,Yes,25-34,Female,Performance 1.0,1,3,4,5,4,5,5,1,2,3,performance 2.0
+737,Yes,35-44,Female,Performance 2.0,2,1,5,1,4,5,4,3,2,3,performance 1.0
+738,Yes,35-44,Prefer not to say,Performance 1.0,2,1,5,5,2,4,2,2,3,3,performance 2.0
+739,Yes,55+,Prefer not to say,Performance 2.0,5,2,1,3,3,2,1,4,1,2,performance 1.0
+740,Yes,25-34,Female,Performance 2.0,3,3,2,1,3,5,3,1,2,3,performance 1.0
+741,Yes,25-34,Prefer not to say,Performance 2.0,2,1,2,3,1,5,3,3,2,2,performance 1.0
+742,No,25-34,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+743,No,35-44,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+744,Yes,45-54,Female,Performance 1.0,2,4,3,4,4,3,1,2,5,3,performance 2.0
+745,Yes,45-54,Prefer not to say,Performance 2.0,2,3,4,2,1,4,1,3,4,3,performance 1.0
+746,Yes,45-54,Male,Performance 1.0,4,5,1,3,5,2,5,1,5,3,performance 2.0
+747,Yes,55+,Prefer not to say,Performance 1.0,5,2,3,3,3,4,3,3,2,3,performance 2.0
+748,Yes,25-34,Male,Performance 1.0,5,3,1,1,2,1,3,4,1,2,performance 2.0
+749,Yes,18-24,Female,Performance 2.0,5,1,2,4,5,2,5,5,4,4,Performance 2.0
+750,Yes,35-44,Female,Performance 2.0,4,3,4,4,2,1,5,3,1,3,performance 1.0
+751,Yes,18-24,Male,Performance 2.0,4,4,3,4,2,5,2,5,4,4,Performance 2.0
+752,Yes,18-24,Male,Performance 1.0,3,2,1,3,2,3,2,1,2,2,performance 2.0
+753,Yes,25-34,Prefer not to say,Performance 1.0,5,5,5,1,2,2,2,1,1,3,performance 2.0
+754,Yes,45-54,Prefer not to say,Performance 2.0,5,3,4,3,5,4,5,4,5,4,Performance 2.0
+755,Yes,55+,Female,Performance 1.0,4,3,2,5,3,5,3,5,5,4,Performance 1.0
+756,Yes,55+,Female,Performance 2.0,5,1,3,4,5,1,4,5,2,3,performance 1.0
+757,Yes,55+,Female,Performance 2.0,2,2,1,4,5,2,1,3,5,3,performance 1.0
+758,Yes,35-44,Prefer not to say,Performance 1.0,1,3,5,1,3,3,2,4,1,3,performance 2.0
+759,Yes,35-44,Male,Performance 2.0,5,3,2,1,5,2,5,3,2,3,performance 1.0
+760,Yes,55+,Female,Performance 2.0,2,5,3,5,4,2,1,3,1,3,performance 1.0
+761,Yes,45-54,Female,Performance 2.0,4,2,4,1,2,4,3,4,4,3,performance 1.0
+762,Yes,25-34,Male,Performance 1.0,1,2,2,4,3,2,1,4,5,3,performance 2.0
+763,Yes,45-54,Prefer not to say,Performance 1.0,4,5,4,4,1,2,4,5,3,4,Performance 1.0
+764,Yes,35-44,Prefer not to say,Performance 1.0,2,1,1,5,5,4,3,1,1,3,performance 2.0
+765,Yes,18-24,Female,Performance 2.0,3,3,5,1,1,1,3,1,1,2,performance 1.0
+766,Yes,55+,Prefer not to say,Performance 1.0,4,4,3,1,3,1,1,5,2,3,performance 2.0
+767,Yes,25-34,Female,Performance 1.0,2,1,4,3,4,1,1,1,4,2,performance 2.0
+768,No,18-24,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+769,Yes,55+,Male,Performance 2.0,3,3,4,1,2,2,4,2,4,3,performance 1.0
+770,Yes,55+,Prefer not to say,Performance 1.0,3,4,3,2,5,5,3,5,4,4,Performance 1.0
+771,Yes,55+,Female,Performance 2.0,4,2,1,1,1,4,4,4,1,2,performance 1.0
+772,Yes,45-54,Prefer not to say,Performance 1.0,4,1,1,2,3,4,4,3,1,3,performance 2.0
+773,Yes,55+,Prefer not to say,Performance 1.0,4,1,5,4,1,1,2,5,4,3,performance 2.0
+774,Yes,45-54,Female,Performance 2.0,1,3,4,3,5,3,5,5,1,3,performance 1.0
+775,Yes,45-54,Prefer not to say,Performance 2.0,3,5,4,3,2,3,5,5,2,4,Performance 2.0
+776,Yes,55+,Prefer not to say,Performance 2.0,3,2,2,5,1,2,3,4,5,3,performance 1.0
+777,Yes,35-44,Male,Performance 1.0,5,1,3,1,5,3,5,1,1,3,performance 2.0
+778,Yes,35-44,Male,Performance 1.0,4,5,1,4,2,5,2,5,4,4,Performance 1.0
+779,Yes,18-24,Prefer not to say,Performance 1.0,3,3,2,2,3,1,2,3,1,2,performance 2.0
+780,Yes,18-24,Female,Performance 1.0,5,1,3,5,5,5,5,2,1,4,Performance 1.0
+781,Yes,55+,Female,Performance 2.0,4,4,4,4,1,5,1,3,3,3,performance 1.0
+782,Yes,35-44,Male,Performance 2.0,3,2,5,2,3,2,4,5,2,3,performance 1.0
+783,Yes,18-24,Male,Performance 2.0,3,2,2,3,1,4,4,5,5,3,performance 1.0
+784,Yes,18-24,Prefer not to say,Performance 2.0,1,3,4,1,5,2,3,1,3,3,performance 1.0
+785,No,35-44,Male,0,0,0,0,0,0,0,0,0,0,0,0
+786,Yes,45-54,Male,Performance 2.0,2,2,2,4,2,3,2,5,1,3,performance 1.0
+787,Yes,35-44,Male,Performance 1.0,4,1,5,3,2,3,1,3,5,3,performance 2.0
+788,Yes,18-24,Male,Performance 2.0,4,1,2,5,3,3,1,4,5,3,performance 1.0
+789,Yes,55+,Female,Performance 1.0,4,4,5,2,5,1,4,3,1,3,performance 2.0
+790,Yes,55+,Female,Performance 1.0,1,5,2,3,3,3,1,4,4,3,performance 2.0
+791,Yes,55+,Prefer not to say,Performance 2.0,2,4,5,1,4,4,4,1,3,3,performance 1.0
+792,Yes,18-24,Prefer not to say,Performance 2.0,5,3,1,5,5,4,5,3,5,4,Performance 2.0
+793,Yes,18-24,Female,Performance 2.0,3,3,1,2,2,5,1,2,2,2,performance 1.0
+794,Yes,45-54,Male,Performance 1.0,2,2,1,4,3,5,3,2,2,3,performance 2.0
+795,No,35-44,Female,0,0,0,0,0,0,0,0,0,0,0,0
+796,Yes,18-24,Prefer not to say,Performance 2.0,3,2,3,3,2,1,5,3,5,3,performance 1.0
+797,No,35-44,Female,0,0,0,0,0,0,0,0,0,0,0,0
+798,No,35-44,Male,0,0,0,0,0,0,0,0,0,0,0,0
+799,Yes,55+,Male,Performance 2.0,2,4,4,1,2,5,3,5,4,3,performance 1.0
+800,Yes,55+,Female,Performance 1.0,5,1,1,4,5,1,4,2,4,3,performance 2.0
+801,Yes,55+,Male,Performance 2.0,5,3,2,1,4,5,3,4,2,3,performance 1.0
+802,Yes,45-54,Female,Performance 2.0,2,1,1,4,2,3,1,1,3,2,performance 1.0
+803,Yes,45-54,Prefer not to say,Performance 1.0,2,1,1,4,2,4,4,3,5,3,performance 2.0
+804,Yes,25-34,Prefer not to say,Performance 1.0,3,2,4,1,5,4,5,4,3,3,performance 2.0
+805,Yes,55+,Prefer not to say,Performance 2.0,1,3,5,1,5,1,2,5,4,3,performance 1.0
+806,Yes,45-54,Prefer not to say,Performance 1.0,2,4,5,1,4,4,5,2,5,4,Performance 1.0
+807,Yes,18-24,Male,Performance 1.0,1,1,3,2,4,1,2,4,3,2,performance 2.0
+808,Yes,35-44,Male,Performance 1.0,2,3,2,2,5,4,2,3,1,3,performance 2.0
+809,No,35-44,Female,0,0,0,0,0,0,0,0,0,0,0,0
+810,Yes,45-54,Prefer not to say,Performance 2.0,1,2,4,3,4,5,3,2,5,3,performance 1.0
+811,Yes,18-24,Female,Performance 2.0,2,4,5,2,1,4,3,2,5,3,performance 1.0
+812,Yes,55+,Female,Performance 2.0,3,3,3,3,4,4,1,3,3,3,performance 1.0
+813,Yes,45-54,Female,Performance 1.0,2,4,5,1,5,3,2,1,4,3,performance 2.0
+814,Yes,18-24,Male,Performance 1.0,3,4,2,4,5,5,5,3,2,4,Performance 1.0
+815,Yes,18-24,Male,Performance 1.0,4,4,2,2,5,3,4,1,4,3,performance 2.0
+816,Yes,55+,Male,Performance 2.0,2,1,5,1,2,1,5,5,1,3,performance 1.0
+817,Yes,25-34,Female,Performance 1.0,5,3,4,3,5,2,4,5,2,4,Performance 1.0
+818,Yes,18-24,Male,Performance 2.0,3,3,4,4,4,4,4,3,2,3,performance 1.0
+819,Yes,55+,Female,Performance 2.0,3,4,3,3,5,3,1,1,2,3,performance 1.0
+820,Yes,55+,Prefer not to say,Performance 2.0,4,4,5,5,4,3,2,5,4,4,Performance 2.0
+821,Yes,35-44,Prefer not to say,Performance 1.0,3,2,5,2,1,3,2,2,2,2,performance 2.0
+822,Yes,55+,Prefer not to say,Performance 2.0,1,4,5,5,1,3,4,2,2,3,performance 1.0
+823,Yes,45-54,Female,Performance 2.0,4,5,1,4,1,3,2,3,2,3,performance 1.0
+824,Yes,18-24,Male,Performance 1.0,3,1,1,2,1,3,3,3,2,2,performance 2.0
+825,Yes,35-44,Prefer not to say,Performance 2.0,3,1,3,5,4,4,1,4,1,3,performance 1.0
+826,Yes,25-34,Female,Performance 2.0,3,2,5,2,4,2,4,3,3,3,performance 1.0
+827,Yes,55+,Female,Performance 2.0,4,4,5,3,3,2,4,4,2,3,performance 1.0
+828,Yes,25-34,Prefer not to say,Performance 2.0,3,3,3,4,4,5,1,5,5,4,Performance 2.0
+829,Yes,55+,Prefer not to say,Performance 1.0,1,2,4,3,4,4,1,2,4,3,performance 2.0
+830,Yes,45-54,Male,Performance 1.0,1,5,3,3,5,2,2,2,4,3,performance 2.0
+831,Yes,45-54,Prefer not to say,Performance 2.0,1,3,5,5,3,1,4,2,5,3,performance 1.0
+832,Yes,25-34,Female,Performance 2.0,2,2,4,1,5,1,2,5,3,3,performance 1.0
+833,Yes,25-34,Female,Performance 2.0,1,2,1,2,5,1,2,4,4,2,performance 1.0
+834,No,18-24,Female,0,0,0,0,0,0,0,0,0,0,0,0
+835,Yes,45-54,Prefer not to say,Performance 1.0,5,5,5,5,2,2,3,4,1,4,Performance 1.0
+836,Yes,25-34,Prefer not to say,Performance 2.0,2,5,2,3,1,5,4,4,4,3,performance 1.0
+837,Yes,25-34,Prefer not to say,Performance 1.0,3,2,5,3,3,2,2,1,2,3,performance 2.0
+838,Yes,25-34,Prefer not to say,Performance 2.0,2,2,1,3,4,1,4,1,3,2,performance 1.0
+839,Yes,45-54,Female,Performance 2.0,2,4,2,2,3,2,3,1,4,3,performance 1.0
+840,Yes,45-54,Female,Performance 2.0,1,1,3,2,1,3,2,1,1,2,performance 1.0
+841,Yes,45-54,Female,Performance 1.0,1,2,3,2,5,2,4,2,2,3,performance 2.0
+842,Yes,35-44,Prefer not to say,Performance 1.0,5,1,2,5,1,3,1,3,1,2,performance 2.0
+843,Yes,45-54,Prefer not to say,Performance 1.0,4,1,5,3,4,1,3,1,5,3,performance 2.0
+844,Yes,18-24,Male,Performance 2.0,3,1,4,3,3,3,5,2,2,3,performance 1.0
+845,Yes,18-24,Prefer not to say,Performance 1.0,1,1,1,4,5,3,2,5,2,3,performance 2.0
+846,No,55+,Female,0,0,0,0,0,0,0,0,0,0,0,0
+847,Yes,45-54,Male,Performance 1.0,3,2,4,3,5,1,1,2,5,3,performance 2.0
+848,Yes,35-44,Prefer not to say,Performance 1.0,4,4,4,4,2,2,3,1,4,3,performance 2.0
+849,Yes,45-54,Prefer not to say,Performance 2.0,5,4,3,1,3,5,5,5,3,4,Performance 2.0
+850,Yes,35-44,Male,Performance 1.0,4,3,2,2,2,1,1,3,4,2,performance 2.0
+851,No,35-44,Male,0,0,0,0,0,0,0,0,0,0,0,0
+852,Yes,35-44,Male,Performance 2.0,3,4,3,1,1,2,5,1,4,3,performance 1.0
+853,Yes,55+,Female,Performance 2.0,4,1,2,5,3,4,5,2,3,3,performance 1.0
+854,Yes,35-44,Prefer not to say,Performance 2.0,2,4,1,1,4,2,3,4,2,3,performance 1.0
+855,Yes,25-34,Female,Performance 1.0,1,1,2,1,3,4,1,5,1,2,performance 2.0
+856,Yes,45-54,Prefer not to say,Performance 2.0,5,5,4,5,5,3,5,5,1,4,Performance 2.0
+857,Yes,45-54,Prefer not to say,Performance 2.0,5,5,2,5,5,1,4,5,1,4,Performance 2.0
+858,Yes,35-44,Male,Performance 2.0,5,5,2,2,2,3,5,2,3,3,performance 1.0
+859,No,25-34,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+860,Yes,18-24,Prefer not to say,Performance 2.0,4,4,2,4,5,1,3,3,4,3,performance 1.0
+861,Yes,35-44,Female,Performance 1.0,4,1,1,2,2,3,3,5,5,3,performance 2.0
+862,Yes,45-54,Female,Performance 2.0,3,5,5,2,2,3,2,1,2,3,performance 1.0
+863,Yes,25-34,Prefer not to say,Performance 2.0,3,2,5,3,3,5,3,3,1,3,performance 1.0
+864,Yes,25-34,Male,Performance 1.0,4,1,4,2,5,5,1,5,2,3,performance 2.0
+865,Yes,35-44,Prefer not to say,Performance 2.0,1,5,4,3,2,4,5,2,1,3,performance 1.0
+866,Yes,25-34,Male,Performance 1.0,2,3,3,4,2,5,3,4,4,3,performance 2.0
+867,Yes,45-54,Prefer not to say,Performance 2.0,5,4,3,4,3,5,2,1,1,3,performance 1.0
+868,Yes,55+,Female,Performance 1.0,1,3,5,5,2,4,5,3,3,3,performance 2.0
+869,Yes,55+,Female,Performance 1.0,2,2,5,2,2,5,5,5,3,3,performance 2.0
+870,Yes,18-24,Female,Performance 1.0,4,3,4,2,3,5,1,1,2,3,performance 2.0
+871,Yes,25-34,Male,Performance 2.0,5,2,1,5,5,5,5,4,5,4,Performance 2.0
+872,Yes,55+,Male,Performance 2.0,3,1,2,3,4,4,1,2,2,2,performance 1.0
+873,Yes,55+,Female,Performance 2.0,2,3,5,5,4,2,2,5,2,3,performance 1.0
+874,Yes,18-24,Female,Performance 2.0,2,5,3,3,3,5,3,4,4,4,Performance 2.0
+875,Yes,35-44,Female,Performance 1.0,1,5,2,1,5,3,5,5,5,4,Performance 1.0
+876,No,18-24,Female,0,0,0,0,0,0,0,0,0,0,0,0
+877,Yes,35-44,Female,Performance 2.0,3,2,1,2,3,2,4,5,3,3,performance 1.0
+878,Yes,35-44,Prefer not to say,Performance 1.0,3,5,1,4,2,4,3,2,4,3,performance 2.0
+879,Yes,45-54,Male,Performance 2.0,3,5,1,3,4,3,2,3,4,3,performance 1.0
+880,Yes,45-54,Female,Performance 2.0,2,4,2,3,4,3,2,4,1,3,performance 1.0
+881,Yes,55+,Prefer not to say,Performance 1.0,2,4,2,4,4,4,4,1,4,3,performance 2.0
+882,Yes,18-24,Female,Performance 1.0,3,3,3,4,1,4,1,2,5,3,performance 2.0
+883,Yes,18-24,Female,Performance 1.0,4,1,5,2,2,4,1,1,4,3,performance 2.0
+884,Yes,35-44,Female,Performance 2.0,4,3,5,5,5,3,4,2,4,4,Performance 2.0
+885,Yes,45-54,Female,Performance 2.0,1,5,5,4,3,1,5,5,2,3,performance 1.0
+886,Yes,55+,Female,Performance 2.0,1,4,1,4,2,4,2,5,1,3,performance 1.0
+887,Yes,45-54,Prefer not to say,Performance 1.0,5,5,1,5,5,5,4,5,1,4,Performance 1.0
+888,Yes,25-34,Female,Performance 2.0,5,3,3,1,5,2,1,4,1,3,performance 1.0
+889,Yes,35-44,Female,Performance 1.0,2,5,2,2,3,1,5,2,1,3,performance 2.0
+890,Yes,18-24,Prefer not to say,Performance 1.0,4,3,2,2,4,4,3,5,2,3,performance 2.0
+891,Yes,55+,Female,Performance 1.0,1,4,1,4,1,1,2,5,4,3,performance 2.0
+892,Yes,55+,Female,Performance 2.0,1,3,1,3,3,3,2,4,5,3,performance 1.0
+893,No,35-44,Female,0,0,0,0,0,0,0,0,0,0,0,0
+894,Yes,25-34,Female,Performance 2.0,5,3,4,1,1,1,5,2,2,3,performance 1.0
+895,Yes,35-44,Prefer not to say,Performance 1.0,1,1,3,4,2,4,4,4,2,3,performance 2.0
+896,Yes,35-44,Prefer not to say,Performance 1.0,4,2,1,4,4,1,1,2,3,2,performance 2.0
+897,Yes,25-34,Male,Performance 2.0,5,5,2,1,2,4,2,2,3,3,performance 1.0
+898,Yes,25-34,Female,Performance 2.0,2,4,1,2,4,1,1,1,2,2,performance 1.0
+899,Yes,18-24,Female,Performance 1.0,1,5,4,1,1,4,1,4,4,3,performance 2.0
+900,Yes,25-34,Male,Performance 2.0,5,1,3,4,2,4,5,1,3,3,performance 1.0
+901,Yes,55+,Male,Performance 2.0,2,5,2,4,5,1,1,5,2,3,performance 1.0
+902,Yes,25-34,Male,Performance 1.0,1,1,3,2,2,1,4,5,3,2,performance 2.0
+903,Yes,18-24,Prefer not to say,Performance 1.0,1,3,1,2,5,2,4,1,5,3,performance 2.0
+904,Yes,18-24,Female,Performance 1.0,4,1,3,5,3,2,2,4,3,3,performance 2.0
+905,Yes,55+,Female,Performance 2.0,3,4,3,4,3,3,5,5,4,4,Performance 2.0
+906,Yes,35-44,Female,Performance 1.0,4,1,4,2,2,2,3,2,5,3,performance 2.0
+907,Yes,55+,Female,Performance 1.0,4,5,2,4,3,4,3,4,2,3,performance 2.0
+908,Yes,35-44,Female,Performance 2.0,5,4,4,3,2,3,4,4,1,3,performance 1.0
+909,Yes,18-24,Prefer not to say,Performance 2.0,5,1,1,4,1,2,5,2,3,3,performance 1.0
+910,Yes,25-34,Male,Performance 1.0,3,2,5,5,2,4,1,4,4,3,performance 2.0
+911,Yes,25-34,Prefer not to say,Performance 1.0,2,5,5,3,2,1,2,1,5,3,performance 2.0
+912,Yes,45-54,Male,Performance 2.0,1,5,3,4,3,2,1,2,1,2,performance 1.0
+913,Yes,35-44,Female,Performance 1.0,2,2,5,5,2,4,1,2,3,3,performance 2.0
+914,Yes,55+,Male,Performance 2.0,4,4,1,1,1,3,1,2,1,2,performance 1.0
+915,Yes,45-54,Male,Performance 2.0,5,2,4,2,3,4,1,5,5,3,performance 1.0
+916,Yes,55+,Female,Performance 1.0,5,2,1,1,5,2,5,5,4,3,performance 2.0
+917,Yes,18-24,Male,Performance 1.0,2,1,5,5,1,2,2,1,5,3,performance 2.0
+918,Yes,18-24,Female,Performance 2.0,2,1,2,3,5,5,2,3,1,3,performance 1.0
+919,Yes,45-54,Female,Performance 2.0,1,3,3,5,3,1,2,1,4,3,performance 1.0
+920,Yes,45-54,Prefer not to say,Performance 2.0,3,4,5,4,5,5,3,4,1,4,Performance 2.0
+921,Yes,35-44,Female,Performance 2.0,3,1,5,3,5,5,4,2,3,3,performance 1.0
+922,Yes,35-44,Male,Performance 2.0,1,3,1,2,5,3,1,3,4,3,performance 1.0
+923,No,45-54,Female,0,0,0,0,0,0,0,0,0,0,0,0
+924,Yes,18-24,Prefer not to say,Performance 2.0,2,2,5,1,2,3,2,1,5,3,performance 1.0
+925,Yes,45-54,Male,Performance 1.0,5,5,2,4,4,5,5,2,5,4,Performance 1.0
+926,Yes,25-34,Male,Performance 2.0,3,3,1,3,5,5,4,3,2,3,performance 1.0
+927,Yes,25-34,Male,Performance 2.0,5,3,2,4,4,2,3,3,2,3,performance 1.0
+928,Yes,25-34,Female,Performance 1.0,2,4,1,1,4,2,5,4,5,3,performance 2.0
+929,Yes,55+,Prefer not to say,Performance 2.0,2,1,1,2,4,2,3,3,2,2,performance 1.0
+930,Yes,45-54,Female,Performance 2.0,5,5,1,4,4,2,2,3,5,3,performance 1.0
+931,Yes,55+,Female,Performance 1.0,1,4,2,5,5,1,4,3,2,3,performance 2.0
+932,Yes,18-24,Prefer not to say,Performance 2.0,2,1,5,4,2,3,3,2,4,3,performance 1.0
+933,Yes,55+,Prefer not to say,Performance 1.0,1,2,5,3,4,1,2,4,1,3,performance 2.0
+934,Yes,35-44,Female,Performance 1.0,3,2,3,4,1,1,5,2,2,3,performance 2.0
+935,Yes,35-44,Female,Performance 1.0,1,3,2,4,5,2,2,4,1,3,performance 2.0
+936,Yes,45-54,Female,Performance 2.0,1,3,5,5,1,3,5,5,2,3,performance 1.0
+937,Yes,45-54,Female,Performance 2.0,4,2,3,4,4,3,5,1,2,3,performance 1.0
+938,Yes,45-54,Prefer not to say,Performance 2.0,3,3,2,4,3,4,3,2,4,3,performance 1.0
+939,Yes,45-54,Male,Performance 1.0,2,2,4,4,5,3,2,3,4,3,performance 2.0
+940,Yes,25-34,Prefer not to say,Performance 2.0,1,2,1,3,2,4,4,5,2,3,performance 1.0
+941,Yes,55+,Female,Performance 2.0,2,5,1,1,4,3,2,2,4,3,performance 1.0
+942,Yes,18-24,Female,Performance 2.0,4,1,3,1,5,3,2,2,1,2,performance 1.0
+943,Yes,55+,Male,Performance 1.0,4,4,5,1,4,1,4,4,5,4,Performance 1.0
+944,Yes,25-34,Female,Performance 2.0,4,1,4,4,4,4,3,5,2,3,performance 1.0
+945,Yes,45-54,Prefer not to say,Performance 2.0,4,2,1,4,2,1,2,3,2,2,performance 1.0
+946,Yes,18-24,Male,Performance 1.0,4,5,4,3,4,1,5,2,2,3,performance 2.0
+947,Yes,18-24,Male,Performance 2.0,2,3,1,5,3,4,2,5,2,3,performance 1.0
+948,Yes,25-34,Male,Performance 2.0,2,3,4,1,3,4,1,4,2,3,performance 1.0
+949,Yes,25-34,Female,Performance 2.0,4,3,1,5,2,1,3,2,2,3,performance 1.0
+950,Yes,35-44,Male,Performance 2.0,4,1,4,5,5,5,3,1,4,4,Performance 2.0
+951,Yes,25-34,Male,Performance 1.0,4,2,2,5,4,4,3,1,2,3,performance 2.0
+952,Yes,45-54,Female,Performance 2.0,1,4,4,5,1,5,1,2,5,3,performance 1.0
+953,Yes,55+,Prefer not to say,Performance 1.0,4,4,3,1,2,1,4,1,2,2,performance 2.0
+954,Yes,45-54,Male,Performance 2.0,2,5,4,1,2,1,4,3,4,3,performance 1.0
+955,Yes,25-34,Female,Performance 2.0,3,3,4,2,3,1,3,2,4,3,performance 1.0
+956,Yes,45-54,Female,Performance 1.0,2,4,1,5,3,3,2,2,2,3,performance 2.0
+957,Yes,45-54,Male,Performance 2.0,3,1,2,1,3,1,1,1,3,2,performance 1.0
+958,Yes,45-54,Male,Performance 1.0,2,5,3,3,5,4,1,1,2,3,performance 2.0
+959,Yes,25-34,Female,Performance 1.0,3,3,2,2,1,2,2,5,4,3,performance 2.0
+960,Yes,55+,Female,Performance 2.0,5,2,5,3,1,4,2,3,5,3,performance 1.0
+961,No,55+,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0
+962,Yes,35-44,Male,Performance 1.0,5,5,3,2,3,3,5,2,4,4,Performance 1.0
+963,Yes,35-44,Female,Performance 2.0,2,1,2,1,3,1,3,2,5,2,performance 1.0
+964,Yes,35-44,Female,Performance 1.0,4,1,1,1,1,3,5,3,3,2,performance 2.0
+965,Yes,18-24,Prefer not to say,Performance 1.0,5,2,4,2,1,4,1,5,1,3,performance 2.0
+966,Yes,35-44,Female,Performance 2.0,1,4,2,2,5,1,2,5,3,3,performance 1.0
+967,Yes,55+,Female,Performance 1.0,2,2,2,2,3,2,3,5,2,3,performance 2.0
+968,Yes,25-34,Female,Performance 1.0,4,2,4,5,3,4,2,1,4,3,performance 2.0
+969,Yes,45-54,Prefer not to say,Performance 1.0,3,5,1,2,5,3,1,4,5,3,performance 2.0
+970,Yes,35-44,Female,Performance 1.0,3,1,1,1,1,4,3,3,4,2,performance 2.0
+971,Yes,45-54,Female,Performance 1.0,1,5,1,4,1,3,3,5,4,3,performance 2.0
+972,Yes,18-24,Female,Performance 2.0,3,5,5,3,5,4,5,5,2,4,Performance 2.0
+973,Yes,18-24,Male,Performance 2.0,2,1,2,1,3,2,5,3,4,3,performance 1.0
+974,Yes,18-24,Female,Performance 2.0,5,5,5,5,2,2,2,2,5,4,Performance 2.0
+975,Yes,45-54,Prefer not to say,Performance 1.0,3,1,5,2,4,4,2,5,5,3,performance 2.0
+976,Yes,35-44,Female,Performance 2.0,4,4,4,2,1,5,1,2,3,3,performance 1.0
+977,Yes,25-34,Male,Performance 1.0,3,1,2,4,4,5,3,3,1,3,performance 2.0
+978,Yes,18-24,Prefer not to say,Performance 1.0,4,1,3,4,3,2,1,2,1,2,performance 2.0
+979,Yes,35-44,Female,Performance 2.0,5,1,3,1,2,3,3,3,5,3,performance 1.0
+980,Yes,18-24,Female,Performance 1.0,4,4,2,1,5,5,3,5,5,4,Performance 1.0
+981,Yes,35-44,Female,Performance 1.0,4,3,2,4,2,4,5,3,1,3,performance 2.0
+982,Yes,25-34,Male,Performance 1.0,2,5,3,5,5,3,3,4,3,4,Performance 1.0
+983,Yes,55+,Male,Performance 1.0,1,3,2,2,5,4,4,4,1,3,performance 2.0
+984,Yes,35-44,Prefer not to say,Performance 1.0,1,1,4,5,3,4,1,5,4,3,performance 2.0
+985,Yes,25-34,Male,Performance 2.0,3,4,5,2,3,1,2,3,3,3,performance 1.0
+986,Yes,18-24,Female,Performance 1.0,2,2,5,4,4,5,3,3,1,3,performance 2.0
+987,Yes,18-24,Female,Performance 1.0,3,4,1,2,2,5,4,3,1,3,performance 2.0
+988,Yes,35-44,Female,Performance 1.0,4,4,3,2,5,2,3,3,1,3,performance 2.0
+989,Yes,45-54,Male,Performance 2.0,1,4,5,5,2,5,3,5,5,4,Performance 2.0
+990,Yes,45-54,Male,Performance 1.0,3,5,2,4,1,2,1,3,5,3,performance 2.0
+991,Yes,25-34,Female,Performance 1.0,3,1,4,5,5,4,5,5,5,4,Performance 1.0
+992,Yes,35-44,Prefer not to say,Performance 1.0,2,5,5,5,1,2,5,1,1,3,performance 2.0
+993,No,18-24,Female,0,0,0,0,0,0,0,0,0,0,0,0
+994,Yes,35-44,Male,Performance 2.0,2,3,1,3,3,2,1,5,1,2,performance 1.0
+995,Yes,25-34,Male,Performance 2.0,5,4,4,4,2,5,5,4,2,4,Performance 2.0
+996,Yes,35-44,Female,Performance 1.0,2,1,5,1,5,3,2,5,4,3,performance 2.0
+997,Yes,25-34,Male,Performance 2.0,1,3,5,3,3,3,4,4,4,3,performance 1.0
+998,Yes,35-44,Female,Performance 1.0,3,1,4,5,1,1,4,5,2,3,performance 2.0
+999,Yes,55+,Female,Performance 2.0,3,5,4,5,2,2,2,2,1,3,performance 1.0
+1000,Yes,18-24,Male,Performance 2.0,2,4,1,5,4,5,3,2,2,3,performance 1.0
