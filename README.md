@@ -27,6 +27,10 @@ To explore the integration of sustainability metrics into fashion design process
 
 ![Architectural Diagram](diagram.png)  
 
+## GitHub Repository  
+- Find the repository at:  
+  [Lululemon Active Wear GitHub Repository](https://github.com/Pamuditha-Gamaarachchi/Lululemon_FinalYearR-.git)
+
 ## Dependencies  
 
   - Python 
