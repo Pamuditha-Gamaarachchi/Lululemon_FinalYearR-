@@ -33,5 +33,8 @@ To explore the integration of sustainability metrics into fashion design process
   - Google Colab
   - GitHub
 
+### Branches  
+- Main branch: `main`  
+- Development branches: `Pamuditha`, `Hirushi`, `Nawodya`, `Hansika`
 
 
