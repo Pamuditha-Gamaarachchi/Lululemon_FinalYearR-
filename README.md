@@ -1,4 +1,6 @@
-Overview: Global apparel tech combination offering end-to-end solutions for leading apparel brands.
+# Lululemon Active Wear 
+
+## Overview: Global apparel tech combination offering end-to-end solutions for leading apparel brands.
 Innovation: Anticipates future trends to push the boundaries of human potential.
 Partnerships: Collaborates for groundbreaking progress in the apparel industry.
 Sustainability: Committed to ethical and sustainable manufacturing, setting industry benchmarks.
@@ -15,8 +17,21 @@ empowering designers to innovate and stay ahead in the fashion industry.
 This system combines similarity reduction with trend prediction to provide real-time, actionable insights for designers. 
 The user-friendly web interface ensures ease of integration into the design workflow, empowering designers to innovate and stay ahead in the fashion industry.
 
-Background:
+## Background:
 Growing awareness and demand for sustainable practices in the fashion industry.
 Importance of minimizing environmental impact while maintaining innovation.
 Purpose:
 To explore the integration of sustainability metrics into fashion design processes.
+
+## Architecture Diagram
+
+![Architectural Diagram](diagram.png)  
+
+## Dependencies  
+
+  - Python 
+  - Google Colab
+  - GitHub
+
+
+
